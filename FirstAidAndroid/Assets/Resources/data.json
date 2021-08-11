@@ -1,0 +1,2803 @@
+{
+    "allRoundData": [{
+        "name": "Round 1",
+        "pointsAddedForC1orrectAnswer": 1,
+        "questions": [{
+            "questionText": "How long would you check to see if an unconscious casualty is breathing normally",
+            "answers": [{
+                "answerText": "No more than 10 seconds",
+                "isCorrect": false
+            }, {
+                "answerText": "Approximately 10 seconds",
+                "isCorrect": false
+            }, {
+                "answerText": "Exactly 10 seconds",
+                "isCorrect": false
+            }, {
+                "answerText": "At least 10 seconds",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "What is the primary concern when assisting a person having a seizure?",
+            "answers": [{
+                "answerText": "Holding them still",
+                "isCorrect": false
+            }, {
+                "answerText": "Keeping them safe from harm",
+                "isCorrect": true
+            }, {
+                "answerText": "Placing them flat on their back",
+                "isCorrect": false
+            }, {
+                "answerText": "Stopping the seizure",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "The goal of CPR (without defibrillation) is to maintain the adequate circulation of oxygenated blood to vital organs like the [blank] and [blank].",
+            "answers": [{
+                "answerText": "Spleen, pancreas",
+                "isCorrect": false
+            }, {
+                "answerText": "Stomach, kidney",
+                "isCorrect": false
+            }, {
+                "answerText": "Heart, brain",
+                "isCorrect": true
+            }, {
+                "answerText": "Liver, muscles",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "If a child had a severe anaphylactic reaction to a bee sting. You should...",
+            "answers": [{
+                "answerText": "have an EpiPen available at all times in case he gets stung again",
+                "isCorrect": true
+            }, {
+                "answerText": "have Benadryl available at all times in case he gets stung again",
+                "isCorrect": false
+            }, {
+                "answerText": "always use an insect repellent with 100% DEET when he goes outside",
+                "isCorrect": false
+            }, {
+                "answerText": "never let him go outside",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "A child touches a hot surface and you think he has a first degree burn. What should you do?",
+            "answers": [{
+                "answerText": "Run cool water over the burned area",
+                "isCorrect": true
+            }, {
+                "answerText": "Put ice on the burn",
+                "isCorrect": false
+            }, {
+                "answerText": "Apply oil on the burn",
+                "isCorrect": false
+            }, {
+                "answerText": "Nothing. It is only a first degree burn",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "A child falls and hits his head. He is most at risk for a serious injury if...",
+            "answers": [{
+                "answerText": "he falls from a height",
+                "isCorrect": false
+            }, {
+                "answerText": "he falls onto a hard floor",
+                "isCorrect": false
+            }, {
+                "answerText": "he passes out briefly",
+                "isCorrect": true
+            }, {
+                "answerText": "he falls onto a soft floor",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Which of the following is a classic sign of dehydration?",
+            "answers": [{
+                "answerText": "crying",
+                "isCorrect": false
+            }, {
+                "answerText": "weight gain",
+                "isCorrect": false
+            }, {
+                "answerText": "weight loss",
+                "isCorrect": true
+            }, {
+                "answerText": "increased urination",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "list different types of wound i. Puncture ii. Contusion iii. Abrasion iv. Laceration",
+            "answers": [{
+                "answerText": "i & ii",
+                "isCorrect": false
+            }, {
+                "answerText": "i & iii",
+                "isCorrect": false
+            }, {
+                "answerText": "i & iv",
+                "isCorrect": false
+            }, {
+                "answerText": "all of the above",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "How long do you cool a burn for?",
+            "answers": [{
+                "answerText": "Cool a burn under running water for a minimum of 10 minutes",
+                "isCorrect": false
+            }, {
+                "answerText": "seeks medical attention",
+                "isCorrect": false
+            }, {
+                "answerText": "use cold water",
+                "isCorrect": false
+            }, {
+                "answerText": "both a and b",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "How old is a Infant in First Aid Terms?",
+            "answers": [{
+                "answerText": "5 months",
+                "isCorrect": false
+            }, {
+                "answerText": "1 year",
+                "isCorrect": true
+            }, {
+                "answerText": "2 years",
+                "isCorrect": false
+            }, {
+                "answerText": "3 years",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "list 5 signs or symptoms of Diabetes: i. urination, ii. sweaty skin, iii. pale, iv. behavior change, iv. sweet smelling breath",
+            "answers": [{
+                "answerText": "i & ii",
+                "isCorrect": false
+            }, {
+                "answerText": "i & iii",
+                "isCorrect": false
+            }, {
+                "answerText": "i & iv",
+                "isCorrect": false
+            }, {
+                "answerText": "all of the above",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "How long do you cool a non-chemical burn down for?",
+            "answers": [{
+                "answerText": "A minimum of 10 minutes!!",
+                "isCorrect": true
+            }, {
+                "answerText": "A minimum of 20 minutes!!",
+                "isCorrect": false
+            }, {
+                "answerText": "A minimum of 30 minutes!!",
+                "isCorrect": false
+            }, {
+                "answerText": "A minimum of 40 minutes!!",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Name 5 different causes of burns: i. Chemical, ii. Ice, iii. Dry, iv. Electrical, iv . Radiation, v. Scald",
+            "answers": [{
+                "answerText": "i, ii , iii",
+                "isCorrect": false
+            }, {
+                "answerText": "i, iii, iv",
+                "isCorrect": false
+            }, {
+                "answerText": "i, iv, v",
+                "isCorrect": false
+            }, {
+                "answerText": "all of the above",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "How long do you cool a chemical burn down for?",
+            "answers": [{
+                "answerText": "A minimum of 10 Minutes!",
+                "isCorrect": false
+            }, {
+                "answerText": "A minimum of 20 Minutes!",
+                "isCorrect": true
+            }, {
+                "answerText": "A minimum of 30 Minutes!",
+                "isCorrect": false
+            }, {
+                "answerText": "A minimum of 40 Minutes!",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Can you name 3 things people can be allergic too?",
+            "answers": [{
+                "answerText": "Peanuts, Chemicals, Penicillin",
+                "isCorrect": false
+            }, {
+                "answerText": "Fur, Eggs, Fish",
+                "isCorrect": false
+            }, {
+                "answerText": "beef, mutton, lamb",
+                "isCorrect": false
+            }, {
+                "answerText": "both a & b",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "How can you a define asthma?",
+            "answers": [{
+                "answerText": "someone have high fever",
+                "isCorrect": false
+            }, {
+                "answerText": "someone have wheezing, breathlessness",
+                "isCorrect": false
+            }, {
+                "answerText": "someone have body pain",
+                "isCorrect": false
+            }, {
+                "answerText": "someone have chest tightness",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Which disease affects your lungs ?",
+            "answers": [{
+                "answerText": "diarrhea",
+                "isCorrect": false
+            }, {
+                "answerText": "Typhoid",
+                "isCorrect": false
+            }, {
+                "answerText": "Fever",
+                "isCorrect": false
+            }, {
+                "answerText": "asthma",
+                "isCorrect": false
+            }]
+        }]
+    }, {
+        "name": "Round 2",
+        "pointsAddedForCorrectAnswer": 1,
+        "questions": [{
+            "questionText": "You can use an automated external defibrillator if a victim is on a metal surface",
+            "answers": [{
+                "answerText": "True",
+                "isCorrect": true
+            }, {
+                "answerText": "False",
+                "isCorrect": false
+            }, {
+                "answerText": "both 1 2",
+                "isCorrect": false
+            }, {
+                "answerText": "above all",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Which drug should be offered to a victim having a suspected heart attack?",
+            "answers": [{
+                "answerText": "Epinephrine \/ Adrenaline",
+                "isCorrect": false
+            }, {
+                "answerText": "ibuprofen",
+                "isCorrect": false
+            }, {
+                "answerText": "Asprin",
+                "isCorrect": true
+            }, {
+                "answerText": "Salbutamol",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "What is Anaphylaxis?",
+            "answers": [{
+                "answerText": "A severe life-threatening allergic reaction",
+                "isCorrect": false
+            }, {
+                "answerText": "A serious form of asthma",
+                "isCorrect": false
+            }, {
+                "answerText": "A mild allergic reaction",
+                "isCorrect": true
+            }, {
+                "answerText": "A serious lung and throat infection",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "The FAST test can be used for a victim suspected of having a stroke. What does it stand for?",
+            "answers": [{
+                "answerText": "Face, Arms, Speech, Time",
+                "isCorrect": true
+            }, {
+                "answerText": "Feet, Arms, Speech, Time",
+                "isCorrect": false
+            }, {
+                "answerText": "Face, Arms, Speech, Technique",
+                "isCorrect": false
+            }, {
+                "answerText": "Face, Arms, Speech, Tongue",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "What should you do if you feel a rib break when performing chest compressions?",
+            "answers": [{
+                "answerText": "Stop CPR immediately",
+                "isCorrect": false
+            }, {
+                "answerText": "Slow down chest compressions",
+                "isCorrect": false
+            }, {
+                "answerText": "Check your hand position and continue chest compressions",
+                "isCorrect": true
+            }, {
+                "answerText": "Perform rescue breaths only",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "What speed of chest compressions should you aim for?",
+            "answers": [{
+                "answerText": "90 - 100 a minute",
+                "isCorrect": false
+            }, {
+                "answerText": "100 a minute",
+                "isCorrect": false
+            }, {
+                "answerText": "100 - 120 a minute",
+                "isCorrect": true
+            }, {
+                "answerText": "120 - 140 a minute",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "What is Shock in first aid?",
+            "answers": [{
+                "answerText": "The body temperature drops too low",
+                "isCorrect": false
+            }, {
+                "answerText": "Lack of oxygen reaching the body's cells and tissues",
+                "isCorrect": false
+            }, {
+                "answerText": "A state of emotional distress",
+                "isCorrect": false
+            }, {
+                "answerText": "ow blood sugar levels",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "How should you open an airway in an unconscious adult victim?",
+            "answers": [{
+                "answerText": "Tilt the head forwards",
+                "isCorrect": false
+            }, {
+                "answerText": "Tilt the head back & lift the chin",
+                "isCorrect": true
+            }, {
+                "answerText": "Move the tongue with your fingers",
+                "isCorrect": false
+            }, {
+                "answerText": "Tilt the head to the side",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Which drug can reverse the effects of anaphylaxis?",
+            "answers": [{
+                "answerText": "Ibuprofen",
+                "isCorrect": true
+            }, {
+                "answerText": "Acetaminophen \/ Paracetamol",
+                "isCorrect": false
+            }, {
+                "answerText": "Salbutamo",
+                "isCorrect": false
+            }, {
+                "answerText": "lEpinephrine \/ Adrenaline",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "In an emergency situation, who is the most important person?",
+            "answers": [{
+                "answerText": "Bystanders",
+                "isCorrect": false
+            }, {
+                "answerText": "Yourself",
+                "isCorrect": true
+            }, {
+                "answerText": "EMS",
+                "isCorrect": false
+            }, {
+                "answerText": "The injured victim",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "If a victim isn't breathing normally, what is the first thing you should do?",
+            "answers": [{
+                "answerText": "Give thirty chest compressions",
+                "isCorrect": false
+            }, {
+                "answerText": "Check for a pulse in the neck",
+                "isCorrect": false
+            }, {
+                "answerText": "Call for emergency medical help and a defibrillator",
+                "isCorrect": true
+            }, {
+                "answerText": "Give two rescue breaths",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "What are the four links in the Chain of Survival?",
+            "answers": [{
+                "answerText": "Early access to help, Early CPR, Early defibrillation, Early advanced care",
+                "isCorrect": true
+            }, {
+                "answerText": "Early defibrillation, Effective CPR, Effective rescue breaths",
+                "isCorrect": false
+            }, {
+                "answerText": "Early transport to hospital,Early defibrillation, Effective CPR, Effective advanced care",
+                "isCorrect": false
+            }, {
+                "answerText": "Early transport to hospitalEffective CPR, Effective defibrillation, Effective rescue breaths, Early advanced care",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Which drug should be offered to a victim having a suspected heart attack?",
+            "answers": [{
+                "answerText": "Epinephrine \/ Adrenaline",
+                "isCorrect": false
+            }, {
+                "answerText": "Ibuprofen",
+                "isCorrect": false
+            }, {
+                "answerText": "Salbutamo",
+                "isCorrect": false
+            }, {
+                "answerText": "Asprin",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "What is Anaphylaxis?",
+            "answers": [{
+                "answerText": "A serious lung and throat infection",
+                "isCorrect": false
+            }, {
+                "answerText": "A mild allergic reaction",
+                "isCorrect": false
+            }, {
+                "answerText": "A severe life-threatening allergic reaction",
+                "isCorrect": false
+            }, {
+                "answerText": "A serious form of asthma",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "What should you do if you feel a rib break when performing chest compressions?",
+            "answers": [{
+                "answerText": "Check your hand position and continue chest compressions",
+                "isCorrect": true
+            }, {
+                "answerText": "Perform rescue breaths only",
+                "isCorrect": false
+            }, {
+                "answerText": "slow down chest compressions",
+                "isCorrect": false
+            }, {
+                "answerText": "Stop CPR immediately",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "What does CPR stand for?",
+            "answers": [{
+                "answerText": "Cardiopulmonary Recovery",
+                "isCorrect": false
+            }, {
+                "answerText": "Cardiopediatric Resuscitation",
+                "isCorrect": false
+            }, {
+                "answerText": "Cardiopulmonary Resuscitation",
+                "isCorrect": true
+            }, {
+                "answerText": "Cardiacpulmonary Revival",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "What does DR AB stand for?",
+            "answers": [{
+                "answerText": "Danger, Response, Awake, Breathing",
+                "isCorrect": false
+            }, {
+                "answerText": "Danger, Recognition, Awake, Bleeding",
+                "isCorrect": false
+            }, {
+                "answerText": "Danger, Response, Airway, Bleeding",
+                "isCorrect": false
+            }, {
+                "answerText": "Danger, Response, Airway, Breathing",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "Dialing 112 in any European country will put you through to the emergency services",
+            "answers": [{
+                "answerText": "True",
+                "isCorrect": true
+            }, {
+                "answerText": "False",
+                "isCorrect": false
+            }, {
+                "answerText": "both 1 2",
+                "isCorrect": false
+            }, {
+                "answerText": "above all",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Which of these is NOT listed in the Aims of First Aid?",
+            "answers": [{
+                "answerText": "Protect wounds",
+                "isCorrect": true
+            }, {
+                "answerText": "Preserve life",
+                "isCorrect": false
+            }, {
+                "answerText": "Promote recovery",
+                "isCorrect": false
+            }, {
+                "answerText": "Prevent worsening of the condition",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "You should remove an object from a wound to help stop the bleeding",
+            "answers": [{
+                "answerText": "True",
+                "isCorrect": false
+            }, {
+                "answerText": "False",
+                "isCorrect": true
+            }, {
+                "answerText": "both 1 2",
+                "isCorrect": false
+            }, {
+                "answerText": "above all",
+                "isCorrect": false
+            }]
+        }]
+    }, {
+        "name": "Round 3",
+        "pointsAddedForCorrectAnswer": 1,
+        "questions": [{
+            "questionText": "After you have cooled a burn what everyday item can you use to cover it",
+            "answers": [{
+                "answerText": "Kitchen foil",
+                "isCorrect": false
+            }, {
+                "answerText": "Cling film",
+                "isCorrect": true
+            }, {
+                "answerText": "Cotton wool",
+                "isCorrect": false
+            }, {
+                "answerText": "All of them",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "If a child cuts his hand and it is bleeding a lot. You should...",
+            "answers": [{
+                "answerText": "Wrap a tourniquet",
+                "isCorrect": false
+            }, {
+                "answerText": "Put his hand below his heart",
+                "isCorrect": false
+            }, {
+                "answerText": "Place a sterile gauze and Pressure on it",
+                "isCorrect": true
+            }, {
+                "answerText": "All of the above",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "The ABCs of first aid are...",
+            "answers": [{
+                "answerText": "Airway, Blood and Circulation",
+                "isCorrect": false
+            }, {
+                "answerText": "Airway, Breathing and Circulation",
+                "isCorrect": true
+            }, {
+                "answerText": "Airway, Bleeding and Choking",
+                "isCorrect": false
+            }, {
+                "answerText": "Airway, Breathing and Compressions",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "If a child is having a seizure, you should...",
+            "answers": [{
+                "answerText": "Start CPR",
+                "isCorrect": false
+            }, {
+                "answerText": "Hold his hand firmly",
+                "isCorrect": false
+            }, {
+                "answerText": "Place something in his mouth",
+                "isCorrect": false
+            }, {
+                "answerText": "None of the above",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "Your child's nose is bleeding. You should...",
+            "answers": [{
+                "answerText": "Rush him to the hospital",
+                "isCorrect": false
+            }, {
+                "answerText": "Tilt his head back until it stops",
+                "isCorrect": false
+            }, {
+                "answerText": "lean forward and pinch the bottom of his nose shut",
+                "isCorrect": true
+            }, {
+                "answerText": "Place ice on the bridge of his nose",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "If a child is bitten by a dog, he may need...",
+            "answers": [{
+                "answerText": "Antibiotics",
+                "isCorrect": false
+            }, {
+                "answerText": "Rabies shots",
+                "isCorrect": false
+            }, {
+                "answerText": "A tetanus shot",
+                "isCorrect": false
+            }, {
+                "answerText": "All of the above",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "If a child had a severe anaphylactic reaction to a bee sting. You should...",
+            "answers": [{
+                "answerText": "Have an EpiPen available",
+                "isCorrect": true
+            }, {
+                "answerText": "Have Benadryl available",
+                "isCorrect": false
+            }, {
+                "answerText": "Use an insect repellent with 100% DEET",
+                "isCorrect": false
+            }, {
+                "answerText": "Never let him go outside",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Your child touches a hot surface and you think he has a first degree burn. What should you do?",
+            "answers": [{
+                "answerText": "Put ice on the burn",
+                "isCorrect": false
+            }, {
+                "answerText": "Run cool water over the burned area",
+                "isCorrect": true
+            }, {
+                "answerText": "Apply oil on the burn",
+                "isCorrect": false
+            }, {
+                "answerText": "Nothing. It is only a first degree burn",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "A bite from which of the following animals puts your child at risk of getting rabies",
+            "answers": [{
+                "answerText": "A rat",
+                "isCorrect": false
+            }, {
+                "answerText": "A dog",
+                "isCorrect": false
+            }, {
+                "answerText": "A bat",
+                "isCorrect": false
+            }, {
+                "answerText": "Both b & c",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "While playing, a child falls backwards and lands on his outstretched wrist. It isn't very swollen, but it hurts when you touch or move it. You should...",
+            "answers": [{
+                "answerText": "Call your doctor",
+                "isCorrect": true
+            }, {
+                "answerText": "Just put ice on it",
+                "isCorrect": false
+            }, {
+                "answerText": "Just wrap it",
+                "isCorrect": false
+            }, {
+                "answerText": "Just keep it elevated",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "A child falls and hits his head. He is most at risk for a serious injury if...",
+            "answers": [{
+                "answerText": "He falls from a height",
+                "isCorrect": false
+            }, {
+                "answerText": "He falls onto a hard floor",
+                "isCorrect": false
+            }, {
+                "answerText": "He passes out briefly",
+                "isCorrect": true
+            }, {
+                "answerText": "He falls onto a soft floor",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Which of the following is a classic sign of dehydration?",
+            "answers": [{
+                "answerText": "Crying",
+                "isCorrect": false
+            }, {
+                "answerText": "Weight gain",
+                "isCorrect": false
+            }, {
+                "answerText": "Weight loss",
+                "isCorrect": true
+            }, {
+                "answerText": "Weight loss",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Your child burns his arm and the area of skin is red and blistered. This is likely a...",
+            "answers": [{
+                "answerText": "1st degree burn",
+                "isCorrect": false
+            }, {
+                "answerText": "2nd degree burn",
+                "isCorrect": true
+            }, {
+                "answerText": "3rd degree burn",
+                "isCorrect": false
+            }, {
+                "answerText": "4th degree burn",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "A honey bee stings a child. You should...",
+            "answers": [{
+                "answerText": "Try to scrape the stinger out",
+                "isCorrect": false
+            }, {
+                "answerText": "Pull the stinger out right away",
+                "isCorrect": false
+            }, {
+                "answerText": "Place ice or a paste of baking soda and water on the sting",
+                "isCorrect": false
+            }, {
+                "answerText": "both a and c",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "Which of the following should be in a first aid kit for a child?",
+            "answers": [{
+                "answerText": "Aspirin in case he has a febrile seizure",
+                "isCorrect": false
+            }, {
+                "answerText": "gauze and bandages in case he cuts himself",
+                "isCorrect": true
+            }, {
+                "answerText": "a mercury thermometer in case he has a fever",
+                "isCorrect": false
+            }, {
+                "answerText": "all of the above",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "How should you open the airway of an unconscious casualty?",
+            "answers": [{
+                "answerText": "Head tilt and chin lift.",
+                "isCorrect": true
+            }, {
+                "answerText": "Jaw thrust.",
+                "isCorrect": false
+            }, {
+                "answerText": "Head tilt and jaw thrust.",
+                "isCorrect": false
+            }, {
+                "answerText": "Lift the chin",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "How long would you check to see if an unconscious casualty is breathing normally?",
+            "answers": [{
+                "answerText": "No more than 10 seconds.",
+                "isCorrect": true
+            }, {
+                "answerText": "Approximately 10 seconds",
+                "isCorrect": false
+            }, {
+                "answerText": "Exactly 10 seconds",
+                "isCorrect": false
+            }, {
+                "answerText": "At least 10 seconds.",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "You are a lone first aider and have an unconscious non-breathing adult, what should you do first?",
+            "answers": [{
+                "answerText": "Start CPR with 30 chest compressions.",
+                "isCorrect": false
+            }, {
+                "answerText": "Give five initial rescue breaths",
+                "isCorrect": false
+            }, {
+                "answerText": "Call 911\/112 requesting AED (defibrillator) and ambulance",
+                "isCorrect": true
+            }, {
+                "answerText": "Give two initial rescue breaths",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Which is the correct ratio of chest compressions to rescue breaths for use in CPR of an adult casualty?",
+            "answers": [{
+                "answerText": "2 compressions: 30 rescue breaths.",
+                "isCorrect": false
+            }, {
+                "answerText": "5 compressions: 1 rescue breath",
+                "isCorrect": false
+            }, {
+                "answerText": "15 compressions: 2 rescue breaths",
+                "isCorrect": false
+            }, {
+                "answerText": "30 compressions: 2 rescue breaths.",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "Which of the following is the correct sequence for the chain of survival?",
+            "answers": [{
+                "answerText": "911\/112. CPR. Defibrillation. Advanced care",
+                "isCorrect": true
+            }, {
+                "answerText": "CPR. Defibrillation. 911\/112. Advanced care.",
+                "isCorrect": false
+            }, {
+                "answerText": "Defibrillation. CPR. 911\/112. Advanced care",
+                "isCorrect": false
+            }, {
+                "answerText": "Defibrillation. 911\/112. CPR. Advanced care.",
+                "isCorrect": false
+            }]
+        }]
+    }, {
+        "name": "Round 4",
+        "pointsAddedForCorrectAnswer": 1,
+        "questions": [{
+            "questionText": "What color is a bleed from an artery",
+            "answers": [{
+                "answerText": "bright red",
+                "isCorrect": true
+            }, {
+                "answerText": "dark red",
+                "isCorrect": false
+            }, {
+                "answerText": "white",
+                "isCorrect": false
+            }, {
+                "answerText": "blue",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Someone is bleeding and going pale, cold and clammy. What is happening?",
+            "answers": [{
+                "answerText": "The Casualty is going into shock",
+                "isCorrect": true
+            }, {
+                "answerText": "having chest tightness",
+                "isCorrect": false
+            }, {
+                "answerText": "feeling drowsy",
+                "isCorrect": false
+            }, {
+                "answerText": "Low temperature in the brain tissue",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "How can you recognize a bleed from a vein?",
+            "answers": [{
+                "answerText": "The blood is dark red",
+                "isCorrect": false
+            }, {
+                "answerText": "gushes out",
+                "isCorrect": false
+            }, {
+                "answerText": "Low temperature in the brain tissue",
+                "isCorrect": false
+            }, {
+                "answerText": "both a and b",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "What is the easy way to remember how to treat a broken bone?",
+            "answers": [{
+                "answerText": "That place will be dark red",
+                "isCorrect": false
+            }, {
+                "answerText": "S.I.P",
+                "isCorrect": false
+            }, {
+                "answerText": "Support, Immobilize and Protect",
+                "isCorrect": false
+            }, {
+                "answerText": "Both b and c",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "How long do you cool a non chemical burn down for?",
+            "answers": [{
+                "answerText": "A minimum of 10 minutes!!",
+                "isCorrect": false
+            }, {
+                "answerText": "A minimum of 20 minutes!!",
+                "isCorrect": false
+            }, {
+                "answerText": "A minimum of 30 minutes!!",
+                "isCorrect": false
+            }, {
+                "answerText": "A minimum of 40 minutes!!",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "What 2 elements make up CPR?",
+            "answers": [{
+                "answerText": "Rescue Breaths",
+                "isCorrect": true
+            }, {
+                "answerText": "Chest Compressions",
+                "isCorrect": false
+            }, {
+                "answerText": "Hypoglycemia.",
+                "isCorrect": false
+            }, {
+                "answerText": "Both a and b",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Can you name 3 things which someone can drown in. i. river ii. mountain iii. Pool iv. Ponds",
+            "answers": [{
+                "answerText": "i, ii , iii",
+                "isCorrect": false
+            }, {
+                "answerText": "i, iii, iv",
+                "isCorrect": false
+            }, {
+                "answerText": "i, iv, ii",
+                "isCorrect": false
+            }, {
+                "answerText": "",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Who can have Epilepsy?",
+            "answers": [{
+                "answerText": "People of all ages",
+                "isCorrect": false
+            }, {
+                "answerText": "mostly new born babies",
+                "isCorrect": false
+            }, {
+                "answerText": "mostly old people",
+                "isCorrect": false
+            }, {
+                "answerText": "mostly over 20 years",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "which of your body part controls the way you function ?",
+            "answers": [{
+                "answerText": "heart",
+                "isCorrect": false
+            }, {
+                "answerText": "kidney",
+                "isCorrect": true
+            }, {
+                "answerText": "brain",
+                "isCorrect": false
+            }, {
+                "answerText": "lung",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Which of your body part helps millions of nerve cells (neurons) to pass electrical signals to each other?",
+            "answers": [{
+                "answerText": "brain",
+                "isCorrect": false
+            }, {
+                "answerText": "heart",
+                "isCorrect": false
+            }, {
+                "answerText": "kidney",
+                "isCorrect": false
+            }, {
+                "answerText": "lung",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "why do seizures happen?",
+            "answers": [{
+                "answerText": "Rescue Breaths",
+                "isCorrect": false
+            }, {
+                "answerText": "these electrical signals are disrupted",
+                "isCorrect": false
+            }, {
+                "answerText": "Low temperature in the brain tissue",
+                "isCorrect": false
+            }, {
+                "answerText": "Low temperature in the brain tissue",
+                "isCorrect": false
+            }]
+        }]
+    }, {
+        "name": "Round 5",
+        "pointsAddedForCorrectAnswer": 1,
+        "questions": [{
+            "questionText": "What is anaphylaxis",
+            "answers": [{
+                "answerText": "A mild allergic reaction",
+                "isCorrect": false
+            }, {
+                "answerText": "A severe lifethreatening allergic reaction",
+                "isCorrect": true
+            }, {
+                "answerText": "A serious form of asthma",
+                "isCorrect": false
+            }, {
+                "answerText": "A serious lung and throat infection",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "You arrive at the scene of a motor vehicle collision. There are multiple casualties with serious injuries. Who should you give assistance to first?",
+            "answers": [{
+                "answerText": "The patient who has a suspected neck injury",
+                "isCorrect": false
+            }, {
+                "answerText": "The patient who is in the most pain",
+                "isCorrect": false
+            }, {
+                "answerText": "The patient who isn't making any noise",
+                "isCorrect": true
+            }, {
+                "answerText": "The youngest patient",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "What does the term \u201cunconsciousness\u201d mean?",
+            "answers": [{
+                "answerText": "A person with a head injury",
+                "isCorrect": false
+            }, {
+                "answerText": "A person who is feeling drowsy",
+                "isCorrect": false
+            }, {
+                "answerText": "A person is asleep",
+                "isCorrect": false
+            }, {
+                "answerText": "A person who does not wake up and is not aware of themselves\/surroundings",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "You must attend a formal first aid course before giving first aid to a stranger on the street",
+            "answers": [{
+                "answerText": "False",
+                "isCorrect": true
+            }, {
+                "answerText": "True",
+                "isCorrect": false
+            }, {
+                "answerText": "both 1 2",
+                "isCorrect": false
+            }, {
+                "answerText": "above all",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "The best way to stop a nosebleed is to tilt the head backwards and pinch the soft part of the nose",
+            "answers": [{
+                "answerText": "False",
+                "isCorrect": true
+            }, {
+                "answerText": "True",
+                "isCorrect": false
+            }, {
+                "answerText": "above all",
+                "isCorrect": false
+            }, {
+                "answerText": "both 1 2",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Taking a pulse involves compressing an artery against a bone",
+            "answers": [{
+                "answerText": "True",
+                "isCorrect": true
+            }, {
+                "answerText": "False",
+                "isCorrect": false
+            }, {
+                "answerText": "both 1 2",
+                "isCorrect": false
+            }, {
+                "answerText": "above all",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "What causes fainting?",
+            "answers": [{
+                "answerText": "High blood sugar levels in the brain",
+                "isCorrect": false
+            }, {
+                "answerText": "Dis-organized electrical activity in the brain",
+                "isCorrect": false
+            }, {
+                "answerText": "Low temperature in the brain tissue",
+                "isCorrect": false
+            }, {
+                "answerText": "A reduction in the blood flow to the brain",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "A \u2018fracture\u2019 is different to a \u2018broken bone\u2019",
+            "answers": [{
+                "answerText": "False",
+                "isCorrect": false
+            }, {
+                "answerText": "True",
+                "isCorrect": true
+            }, {
+                "answerText": "both 1 2",
+                "isCorrect": false
+            }, {
+                "answerText": "above all",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "What is the most effective way to stop major bleeding?",
+            "answers": [{
+                "answerText": "Elevation",
+                "isCorrect": false
+            }, {
+                "answerText": "Medical superglue",
+                "isCorrect": false
+            }, {
+                "answerText": "Plasters",
+                "isCorrect": false
+            }, {
+                "answerText": "Direct pressure",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "How should you open the airway of an unconscious casualty?",
+            "answers": [{
+                "answerText": "Head tilt and chin lift.",
+                "isCorrect": true
+            }, {
+                "answerText": "Jaw thrust",
+                "isCorrect": false
+            }, {
+                "answerText": "Head tilt and jaw thrust.",
+                "isCorrect": false
+            }, {
+                "answerText": "Lift the chin",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "How long would you check to see if an unconscious casualty is breathing normally",
+            "answers": [{
+                "answerText": "No more than 10 seconds.",
+                "isCorrect": true
+            }, {
+                "answerText": "Approximately 10 seconds.",
+                "isCorrect": false
+            }, {
+                "answerText": "Exactly 10 seconds",
+                "isCorrect": false
+            }, {
+                "answerText": "At least 10 seconds.",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "You are a lone first aider and have an unconscious non-breathing adult, what should you do first?",
+            "answers": [{
+                "answerText": "Start CPR with 30 chest compressions.",
+                "isCorrect": false
+            }, {
+                "answerText": "Give five initial rescue breaths.",
+                "isCorrect": false
+            }, {
+                "answerText": "Call 911\/112 requesting AED (defibrillator) and ambulance",
+                "isCorrect": true
+            }, {
+                "answerText": "Give two initial rescue breaths",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Which is the correct ratio of chest compressions to rescue breaths for use in CPR of an adult casualty?",
+            "answers": [{
+                "answerText": "2 compressions : 30 rescue breaths",
+                "isCorrect": false
+            }, {
+                "answerText": "5 compressions : 1 rescue breath.",
+                "isCorrect": false
+            }, {
+                "answerText": "15 compressions : 2 rescue breaths",
+                "isCorrect": false
+            }, {
+                "answerText": "30 compressions : 2 rescue breaths.",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "What is the cause of angina?",
+            "answers": [{
+                "answerText": "Insufficient blood reaching the lungs.",
+                "isCorrect": false
+            }, {
+                "answerText": "Insufficient blood reaching the brain.",
+                "isCorrect": false
+            }, {
+                "answerText": "Insufficient blood reaching the heart muscles",
+                "isCorrect": true
+            }, {
+                "answerText": "Insufficient blood reaching the leg muscles",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "What should a casualty with a severe allergy carry at all times?",
+            "answers": [{
+                "answerText": "Insulin",
+                "isCorrect": false
+            }, {
+                "answerText": "Acetaminophen\/Paracetamol",
+                "isCorrect": false
+            }, {
+                "answerText": "Adrenaline (Epipen)",
+                "isCorrect": true
+            }, {
+                "answerText": "Aspirin.",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Which test should you use if you suspect that a casualty has had a stroke?",
+            "answers": [{
+                "answerText": "Face, Arms, Speech, Test",
+                "isCorrect": true
+            }, {
+                "answerText": "Alert, Voice, Pain, Unresponsive",
+                "isCorrect": false
+            }, {
+                "answerText": "Response, Airway, Breathing, Circulation.",
+                "isCorrect": false
+            }, {
+                "answerText": "Pulse, Respiratory Rate, Temperature",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "What should your first action be when treating an electrical burn?",
+            "answers": [{
+                "answerText": "Ensure that the casualty is still breathing",
+                "isCorrect": false
+            }, {
+                "answerText": "Wash the burn with cold water",
+                "isCorrect": false
+            }, {
+                "answerText": "Check for danger and ensure that contact with the electrical source is broken.",
+                "isCorrect": true
+            }, {
+                "answerText": "Check for level of response",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "What names are given to the three different depths of burns?",
+            "answers": [{
+                "answerText": "Small, medium and large.",
+                "isCorrect": false
+            }, {
+                "answerText": "First, second and third degree.",
+                "isCorrect": false
+            }, {
+                "answerText": "Minor, medium and severe.",
+                "isCorrect": false
+            }, {
+                "answerText": "Superficial, partial thickness, full thickness",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "What is a faint?",
+            "answers": [{
+                "answerText": "A response to fear",
+                "isCorrect": false
+            }, {
+                "answerText": "An unexpected collapse",
+                "isCorrect": false
+            }, {
+                "answerText": "A brief loss of consciousness",
+                "isCorrect": true
+            }, {
+                "answerText": "A sign of flu",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "How should you open the airway of an unconscious casualty?",
+            "answers": [{
+                "answerText": "Head tilt and chin lift.",
+                "isCorrect": true
+            }, {
+                "answerText": "Jaw thrust",
+                "isCorrect": false
+            }, {
+                "answerText": "Head tilt and jaw thrust",
+                "isCorrect": false
+            }, {
+                "answerText": "Lift the chin",
+                "isCorrect": false
+            }]
+        }]
+    }, {
+        "name": "Round 6",
+        "pointsAddedForCorrectAnswer": 1,
+        "questions": [{
+            "questionText": "What is the cause of angina",
+            "answers": [{
+                "answerText": "Insufficient blood reaching the lungs",
+                "isCorrect": false
+            }, {
+                "answerText": "Insufficient blood reaching the brain",
+                "isCorrect": false
+            }, {
+                "answerText": "Insufficient blood reaching the heart muscle",
+                "isCorrect": true
+            }, {
+                "answerText": "Insufficient blood reaching the leg muscles",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "What should a casualty with a severe allergy carry at all times?",
+            "answers": [{
+                "answerText": "Insulin.",
+                "isCorrect": false
+            }, {
+                "answerText": "Acetaminophen\/Paracetamol.",
+                "isCorrect": false
+            }, {
+                "answerText": "Adrenaline (Epipen).",
+                "isCorrect": true
+            }, {
+                "answerText": "Aspirin.",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Which test should you use if you suspect that a casualty has had a stroke?",
+            "answers": [{
+                "answerText": "Face, Arms, Speech, Test",
+                "isCorrect": true
+            }, {
+                "answerText": "Alert, Voice, Pain, Unresponsive",
+                "isCorrect": false
+            }, {
+                "answerText": "Response, Airway, Breathing, Circulation.",
+                "isCorrect": false
+            }, {
+                "answerText": "Pulse, Respiratory Rate, Temperature",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Which of the following can cause a stroke?",
+            "answers": [{
+                "answerText": "A blood clot in an artery in the brain",
+                "isCorrect": true
+            }, {
+                "answerText": "A blood clot in an artery in the heart.",
+                "isCorrect": false
+            }, {
+                "answerText": "A blood clot in an artery in the leg.",
+                "isCorrect": false
+            }, {
+                "answerText": "A blood clot in an artery in the lungs.",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "What should your first action be when treating an electrical burn?",
+            "answers": [{
+                "answerText": "Ensure that the casualty is still breathing.",
+                "isCorrect": false
+            }, {
+                "answerText": "Wash the burn with cold water.",
+                "isCorrect": false
+            }, {
+                "answerText": "Check for danger and ensure that the electrical source is broken.",
+                "isCorrect": true
+            }, {
+                "answerText": "Check for level of response.",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "What is an open fracture?",
+            "answers": [{
+                "answerText": "In which the bone ends can move around.",
+                "isCorrect": false
+            }, {
+                "answerText": "the bone is exposed as the skin is broken.",
+                "isCorrect": true
+            }, {
+                "answerText": "which causes complications such as a punctured lung.",
+                "isCorrect": false
+            }, {
+                "answerText": "In which the bone has bent and split.",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Which medical condition will develop from severe blood loss?",
+            "answers": [{
+                "answerText": "Shock.",
+                "isCorrect": true
+            }, {
+                "answerText": "Hypoglycemia.",
+                "isCorrect": false
+            }, {
+                "answerText": "Anaphylaxis.",
+                "isCorrect": false
+            }, {
+                "answerText": "Hypothermia.",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "What names are given to the three different depths of burns?",
+            "answers": [{
+                "answerText": "Small, medium and large.",
+                "isCorrect": false
+            }, {
+                "answerText": "First, second and third degree.",
+                "isCorrect": false
+            }, {
+                "answerText": "Minor, medium and severe.",
+                "isCorrect": false
+            }, {
+                "answerText": "Superficial, partial thickness, full thickness",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "What is a faint?",
+            "answers": [{
+                "answerText": "A response to fear",
+                "isCorrect": false
+            }, {
+                "answerText": "An unexpected collapse",
+                "isCorrect": false
+            }, {
+                "answerText": "A brief loss of consciousness.",
+                "isCorrect": true
+            }, {
+                "answerText": "A sign of flu",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "What steps would you take to control bleeding from a nosebleed?",
+            "answers": [{
+                "answerText": "lean forward and pinch soft part of nose.",
+                "isCorrect": true
+            }, {
+                "answerText": "lean backward and pinch soft part of nose",
+                "isCorrect": false
+            }, {
+                "answerText": "Lie casualty down and pinch soft part of nose.",
+                "isCorrect": false
+            }, {
+                "answerText": "Lie casualty down and pinch top of nose.",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Due to the essential nature of washing your hands, how much time is recommended to wash your hands?",
+            "answers": [{
+                "answerText": "10 seconds",
+                "isCorrect": false
+            }, {
+                "answerText": "20 seconds",
+                "isCorrect": true
+            }, {
+                "answerText": "1 minute",
+                "isCorrect": false
+            }, {
+                "answerText": "4 minutes",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "While performing CPR on an infant, another rescuer appears on the scene, what do you do next?*",
+            "answers": [{
+                "answerText": "Immediately transport the patient",
+                "isCorrect": false
+            }, {
+                "answerText": "Wait until exhausted, then switch",
+                "isCorrect": false
+            }, {
+                "answerText": "Have the second rescuer help with CPR, to minimize fatigue",
+                "isCorrect": true
+            }, {
+                "answerText": "Have the second rescuer begin ventilations; ratio 30:2",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Where should you place the AED pads when treating an infant for pediatric cardiac arrest? *",
+            "answers": [{
+                "answerText": "Chest and back",
+                "isCorrect": true
+            }, {
+                "answerText": "Do not use an AED on an infant",
+                "isCorrect": false
+            }, {
+                "answerText": "Upper chest and mid abdomen",
+                "isCorrect": false
+            }, {
+                "answerText": "Wherever they fit",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "How long should you check for breathing while performing CPR?*",
+            "answers": [{
+                "answerText": "Don't check for breathing, continue chest compressions",
+                "isCorrect": false
+            }, {
+                "answerText": "2 seconds",
+                "isCorrect": false
+            }, {
+                "answerText": "5 seconds",
+                "isCorrect": false
+            }, {
+                "answerText": "No longer than 10 seconds",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "After finding an unresponsive child, yelling for help, and confirming the child isn't breathing what would be your next course of action?*",
+            "answers": [{
+                "answerText": "Leave the child and search for an AED",
+                "isCorrect": false
+            }, {
+                "answerText": "Deliver rescue breaths as most cardiac arrest occur",
+                "isCorrect": false
+            }, {
+                "answerText": "Begin back blows and chest thrusts",
+                "isCorrect": false
+            }, {
+                "answerText": "Deliver 30 chest compressions",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "When you try to give an unresponsive adult a rescue breath and the chest does not appear to rise, what would you do next?*",
+            "answers": [{
+                "answerText": "Perform abdominal thrusts",
+                "isCorrect": false
+            }, {
+                "answerText": "Begin CPR",
+                "isCorrect": false
+            }, {
+                "answerText": "Repeat the head tilt\/chin lift maneuver and attempt the breath again",
+                "isCorrect": true
+            }, {
+                "answerText": "Go call 911",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "After finding someone who is unresponsive, has a pulse but does not appear to be breathing, you find you are unable to give them CPR, what do you do next?*",
+            "answers": [{
+                "answerText": "Begin CPR",
+                "isCorrect": false
+            }, {
+                "answerText": "Abdominal thrusts",
+                "isCorrect": false
+            }, {
+                "answerText": "Repeat the head tilt\/chin lift maneuver and attempt the breath again",
+                "isCorrect": true
+            }, {
+                "answerText": "Heimlich maneuver",
+                "isCorrect": false
+            }]
+        }]
+    }, {
+        "name": "Round 7",
+        "pointsAddedForCorrectAnswer": 1,
+        "questions": [{
+            "questionText": "Should you remove a foreign object stuck in the eye",
+            "answers": [{
+                "answerText": "yes remove it",
+                "isCorrect": false
+            }, {
+                "answerText": "No keep the eye still",
+                "isCorrect": false
+            }, {
+                "answerText": "seek medical attention immediately",
+                "isCorrect": false
+            }, {
+                "answerText": "both b and c",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "What First Aid equipment is required for Eye injuries?",
+            "answers": [{
+                "answerText": "Sterile eye wash ( If safe to remove)",
+                "isCorrect": false
+            }, {
+                "answerText": "wash with warm water",
+                "isCorrect": false
+            }, {
+                "answerText": "Eye pad ( to cover the eye and prevent movement)",
+                "isCorrect": false
+            }, {
+                "answerText": "both a and c",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "Name 3 things that may end up in the eye?",
+            "answers": [{
+                "answerText": "i.dust",
+                "isCorrect": false
+            }, {
+                "answerText": "ii. insect",
+                "isCorrect": false
+            }, {
+                "answerText": "chemical",
+                "isCorrect": false
+            }, {
+                "answerText": "all of the above",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "Embedded objects in the eye. what should you do ?",
+            "answers": [{
+                "answerText": "keep it over there",
+                "isCorrect": false
+            }, {
+                "answerText": "touch it with your dirty hand",
+                "isCorrect": false
+            }, {
+                "answerText": "try to remove it with clean water or medicine",
+                "isCorrect": true
+            }, {
+                "answerText": "put some tissu on it",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Watering or blood in the eye",
+            "answers": [{
+                "answerText": "try to clean it",
+                "isCorrect": false
+            }, {
+                "answerText": "call 911",
+                "isCorrect": false
+            }, {
+                "answerText": "rush to the hospital",
+                "isCorrect": false
+            }, {
+                "answerText": "both b and c",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "Pain around the injured eye",
+            "answers": [{
+                "answerText": "ignore it",
+                "isCorrect": false
+            }, {
+                "answerText": "try to fixed it by yourslef",
+                "isCorrect": false
+            }, {
+                "answerText": "consult with a doctor",
+                "isCorrect": true
+            }, {
+                "answerText": "keep touching it",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Difficulty opening the eye",
+            "answers": [{
+                "answerText": "keep try to open",
+                "isCorrect": false
+            }, {
+                "answerText": "ignore it",
+                "isCorrect": false
+            }, {
+                "answerText": "try to fixed it by yourslef",
+                "isCorrect": false
+            }, {
+                "answerText": "consult with a doctor",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "Difficulty seeing out of the eye",
+            "answers": [{
+                "answerText": "keep try to open",
+                "isCorrect": false
+            }, {
+                "answerText": "ignore it",
+                "isCorrect": false
+            }, {
+                "answerText": "ignore it",
+                "isCorrect": false
+            }, {
+                "answerText": "consult with a doctor",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "Dust particles entering the eye. what should you do ?",
+            "answers": [{
+                "answerText": "touch it with your dirty hand",
+                "isCorrect": false
+            }, {
+                "answerText": "wash it away using a sterile eye wash or clean with running water",
+                "isCorrect": true
+            }, {
+                "answerText": "keep it over there",
+                "isCorrect": false
+            }, {
+                "answerText": "keep touching it",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "After a eye operation , Protect the eye  by covering with a sterile dressing",
+            "answers": [{
+                "answerText": "yes, for your safty",
+                "isCorrect": true
+            }, {
+                "answerText": "No, no need",
+                "isCorrect": false
+            }, {
+                "answerText": "above all",
+                "isCorrect": false
+            }, {
+                "answerText": "all",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "How can I identify a First Aid Kit?",
+            "answers": [{
+                "answerText": "blue box\/kit with a green cross simulates",
+                "isCorrect": false
+            }, {
+                "answerText": "red box\/kit with a white cross simulates",
+                "isCorrect": false
+            }, {
+                "answerText": "white box\/kit with a red cross simulates",
+                "isCorrect": true
+            }, {
+                "answerText": "Green box\/kit with a white cross simulates",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Can you name 3 pieces of equipment in a First Aid Kit?",
+            "answers": [{
+                "answerText": "lotions, potions or creams",
+                "isCorrect": false
+            }, {
+                "answerText": "Bandages, First Aid advice card",
+                "isCorrect": true
+            }, {
+                "answerText": "fresh water",
+                "isCorrect": false
+            }, {
+                "answerText": "medicine or liqiude drugs",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "What kinds of medicine that you can not store in a first aid kit ?",
+            "answers": [{
+                "answerText": "water",
+                "isCorrect": false
+            }, {
+                "answerText": "Bandages",
+                "isCorrect": false
+            }, {
+                "answerText": "First Aid advice card",
+                "isCorrect": false
+            }, {
+                "answerText": "lotions, potions or creams",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "How to use a First Aid Kit Safely: i. Keep in Date ii.Sterile iii.No Sharps iv.Stocked and Filled",
+            "answers": [{
+                "answerText": "i",
+                "isCorrect": false
+            }, {
+                "answerText": "i and ii",
+                "isCorrect": false
+            }, {
+                "answerText": "ii and iii",
+                "isCorrect": false
+            }, {
+                "answerText": "i,ii,iii,iv",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "Will you put 40 x W\/Proof Plasters into your first aid kit ?",
+            "answers": [{
+                "answerText": "yes",
+                "isCorrect": true
+            }, {
+                "answerText": "no",
+                "isCorrect": false
+            }, {
+                "answerText": "above all",
+                "isCorrect": false
+            }, {
+                "answerText": "all",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Always wear gloves when doing any First Aid",
+            "answers": [{
+                "answerText": "TRUE",
+                "isCorrect": true
+            }, {
+                "answerText": "FALSE",
+                "isCorrect": false
+            }, {
+                "answerText": "ALL",
+                "isCorrect": false
+            }, {
+                "answerText": "ABOVE ALL",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Ensure you check the dates of the bandages",
+            "answers": [{
+                "answerText": "no need to check",
+                "isCorrect": false
+            }, {
+                "answerText": "change it before expire",
+                "isCorrect": true
+            }, {
+                "answerText": "change it after expire",
+                "isCorrect": false
+            }, {
+                "answerText": "no need to put any kinds of bandages",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Always know where your nearest kit is in the workplace",
+            "answers": [{
+                "answerText": "TRUE",
+                "isCorrect": true
+            }, {
+                "answerText": "FALSE",
+                "isCorrect": false
+            }, {
+                "answerText": "ABOVE ALL",
+                "isCorrect": false
+            }, {
+                "answerText": "ALL",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Donot throw away any equipment that is out of date or no longer sterile.",
+            "answers": [{
+                "answerText": "TRUE",
+                "isCorrect": false
+            }, {
+                "answerText": "FALSE",
+                "isCorrect": true
+            }, {
+                "answerText": "ABOVE ALL",
+                "isCorrect": false
+            }, {
+                "answerText": "ALL",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Donot add things in that you feel necessary, Ice packs are essential for sports",
+            "answers": [{
+                "answerText": "TRUE",
+                "isCorrect": false
+            }, {
+                "answerText": "FALSE",
+                "isCorrect": true
+            }, {
+                "answerText": "ALL",
+                "isCorrect": false
+            }, {
+                "answerText": "ABOVE ALL",
+                "isCorrect": false
+            }]
+        }]
+    }, {
+        "name": "Round 8",
+        "pointsAddedForCorrectAnswer": 1,
+        "questions": [{
+            "questionText": "Which of the following is a wrong statement",
+            "answers": [{
+                "answerText": "We should not play in the middle of a road",
+                "isCorrect": false
+            }, {
+                "answerText": "It is dangerous to play with broken glass",
+                "isCorrect": false
+            }, {
+                "answerText": "It is not dangerous to play with broken toys",
+                "isCorrect": true
+            }, {
+                "answerText": "We should be careful while using sharp blades",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Which of the following is a correct statement?",
+            "answers": [{
+                "answerText": "Ignore traffic signals after midnight",
+                "isCorrect": false
+            }, {
+                "answerText": "Drive under the influence of alcohol",
+                "isCorrect": false
+            }, {
+                "answerText": "Overtake without using your indicator lights",
+                "isCorrect": false
+            }, {
+                "answerText": "Wear safety helmet while riding a motorcycle",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "The main aim of giving first aid is\/are",
+            "answers": [{
+                "answerText": "to prevent further injury.",
+                "isCorrect": false
+            }, {
+                "answerText": "to save life",
+                "isCorrect": false
+            }, {
+                "answerText": "to prevent surgery",
+                "isCorrect": false
+            }, {
+                "answerText": "both (a) and (b)",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "Which of the following things should be used carefully?",
+            "answers": [{
+                "answerText": "A blade",
+                "isCorrect": false
+            }, {
+                "answerText": "a scissors",
+                "isCorrect": false
+            }, {
+                "answerText": "a knife",
+                "isCorrect": false
+            }, {
+                "answerText": "all above",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "Which of the following should NOT be touched with wet hands?",
+            "answers": [{
+                "answerText": "Electrical switches",
+                "isCorrect": false
+            }, {
+                "answerText": "Electrical appliances",
+                "isCorrect": false
+            }, {
+                "answerText": "Torch lights",
+                "isCorrect": false
+            }, {
+                "answerText": "both (a) and (b).",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "What kind of clothes can be worn while burning crackers?",
+            "answers": [{
+                "answerText": "cotton",
+                "isCorrect": true
+            }, {
+                "answerText": "nylon",
+                "isCorrect": false
+            }, {
+                "answerText": "polyster",
+                "isCorrect": false
+            }, {
+                "answerText": "boobies",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Which of the following is NOT a safety rule for handling fire in the kitchen?",
+            "answers": [{
+                "answerText": "Do not go too close to the fire",
+                "isCorrect": false
+            }, {
+                "answerText": "Turn off the gas before leaving the kitchen",
+                "isCorrect": false
+            }, {
+                "answerText": "Blow at the fire with our mouth",
+                "isCorrect": true
+            }, {
+                "answerText": "Do not pour water to put off the fire caused by an electrical short circuit",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Which of the following traffic signals indicates that a driver must stop the vehicle at the traffic light?",
+            "answers": [{
+                "answerText": "Green",
+                "isCorrect": false
+            }, {
+                "answerText": "red box\/kit with a white cross simulates",
+                "isCorrect": true
+            }, {
+                "answerText": "Yellow",
+                "isCorrect": false
+            }, {
+                "answerText": "Blue",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Which of the following is a safety measure to avoid accidents at home?",
+            "answers": [{
+                "answerText": "The bathroom floor should always be kept wet",
+                "isCorrect": false
+            }, {
+                "answerText": "Toys, clothes and books should be left on the floor",
+                "isCorrect": false
+            }, {
+                "answerText": "Staircase should not have railing",
+                "isCorrect": false
+            }, {
+                "answerText": "Electrical switches should not be touched with wet hands",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "The black and white striped portion across the road meant for crossing the road is called",
+            "answers": [{
+                "answerText": "speed breaker",
+                "isCorrect": false
+            }, {
+                "answerText": "zebra crossing",
+                "isCorrect": true
+            }, {
+                "answerText": "pavement",
+                "isCorrect": false
+            }, {
+                "answerText": "two wheelers crossing",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Electrical appliances and switches should only be tested with",
+            "answers": [{
+                "answerText": "fingers.",
+                "isCorrect": false
+            }, {
+                "answerText": "tester.",
+                "isCorrect": true
+            }, {
+                "answerText": "a screw driver.",
+                "isCorrect": false
+            }, {
+                "answerText": "wires.",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "A set of lines painted on the road for safe crossing is called",
+            "answers": [{
+                "answerText": "speed breaker.",
+                "isCorrect": false
+            }, {
+                "answerText": "zebra crossing.",
+                "isCorrect": true
+            }, {
+                "answerText": "pavement.",
+                "isCorrect": false
+            }, {
+                "answerText": "two wheelers crossing.",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Which of the following is the best way to protect ourselves from accidents?",
+            "answers": [{
+                "answerText": "We should touch electric gadgets with wet hands.",
+                "isCorrect": false
+            }, {
+                "answerText": "We should play with broken toys.",
+                "isCorrect": false
+            }, {
+                "answerText": "We should use floaters in the swimming pool.",
+                "isCorrect": true
+            }, {
+                "answerText": "We should run on the road.",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "While walking on the road, we must walk",
+            "answers": [{
+                "answerText": "on the left side.",
+                "isCorrect": true
+            }, {
+                "answerText": "on the right side.",
+                "isCorrect": false
+            }, {
+                "answerText": "in the middle.",
+                "isCorrect": false
+            }, {
+                "answerText": "All of these",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Always know where your nearest kit is in the workplace",
+            "answers": [{
+                "answerText": "TRUE",
+                "isCorrect": true
+            }, {
+                "answerText": "FALSE",
+                "isCorrect": false
+            }, {
+                "answerText": "both 1 2",
+                "isCorrect": false
+            }, {
+                "answerText": "above all",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Is Asthma a disease that affects your lung ?",
+            "answers": [{
+                "answerText": "TRUE",
+                "isCorrect": false
+            }, {
+                "answerText": "FALSE",
+                "isCorrect": true
+            }, {
+                "answerText": "both 1 2",
+                "isCorrect": false
+            }, {
+                "answerText": "above all",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "A child falls and hits his head. He is most at risk for a serious injury if...",
+            "answers": [{
+                "answerText": "he falls from a height",
+                "isCorrect": false
+            }, {
+                "answerText": "he falls onto a hard floor",
+                "isCorrect": false
+            }, {
+                "answerText": "he passes out briefly",
+                "isCorrect": true
+            }, {
+                "answerText": "he falls onto a soft floor",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "How long do you cool a non-chemical burn down for?",
+            "answers": [{
+                "answerText": "A minimum of 10 minutes!!",
+                "isCorrect": true
+            }, {
+                "answerText": "A minimum of 20 minutes!!",
+                "isCorrect": false
+            }, {
+                "answerText": "A minimum of 30 minutes!!",
+                "isCorrect": false
+            }, {
+                "answerText": "A minimum of 40 minutes!!",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "The most common causes of concussions are sports injuries (football, hockey, rugby, basketball, etc.),",
+            "answers": [{
+                "answerText": "True",
+                "isCorrect": true
+            }, {
+                "answerText": "False",
+                "isCorrect": false
+            }, {
+                "answerText": "both 1 2",
+                "isCorrect": false
+            }, {
+                "answerText": "above all",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "list 5 signs or symptoms of Diabetes: i. urination, ii. sweaty skin, iii. pale, iv. behavior change, iv. sweet smelling breath",
+            "answers": [{
+                "answerText": "i & ii",
+                "isCorrect": false
+            }, {
+                "answerText": "i & iii",
+                "isCorrect": false
+            }, {
+                "answerText": "i & iv",
+                "isCorrect": false
+            }, {
+                "answerText": "all of the above",
+                "isCorrect": true
+            }]
+        }]
+    }, {
+        "name": "Round 9",
+        "pointsAddedForCorrectAnswer": 1,
+        "questions": [{
+            "questionText": "Concussion is caused when the casualtys brain is shaken within the skull by a blow to the head",
+            "answers": [{
+                "answerText": "TRUE",
+                "isCorrect": true
+            }, {
+                "answerText": "FALSE",
+                "isCorrect": false
+            }, {
+                "answerText": "ALL",
+                "isCorrect": false
+            }, {
+                "answerText": "all of the above",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "How do you recognise someone with concussion?",
+            "answers": [{
+                "answerText": "Mild headache,Dizziness ,Loss of memor",
+                "isCorrect": true
+            }, {
+                "answerText": "having chest tightness",
+                "isCorrect": false
+            }, {
+                "answerText": "feeling drowsy",
+                "isCorrect": false
+            }, {
+                "answerText": "Low temperature in the brain tissue",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "People who suffer from concussions generally fully recover quickly. However, in some cases, symptoms can last for days or weeks",
+            "answers": [{
+                "answerText": "TRUE",
+                "isCorrect": true
+            }, {
+                "answerText": "FALSE",
+                "isCorrect": false
+            }, {
+                "answerText": "ALL",
+                "isCorrect": false
+            }, {
+                "answerText": "ABOVE ALL",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "The most common causes of concussions are sports injuries (football, hockey, rugby, basketball, etc.),",
+            "answers": [{
+                "answerText": "TRUE",
+                "isCorrect": true
+            }, {
+                "answerText": "FALSE",
+                "isCorrect": false
+            }, {
+                "answerText": "ALL",
+                "isCorrect": false
+            }, {
+                "answerText": "ABOVE ALL",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "People who suffer from concussions generally take a long time to recover fully.",
+            "answers": [{
+                "answerText": "TRUE",
+                "isCorrect": false
+            }, {
+                "answerText": "FALSE",
+                "isCorrect": true
+            }, {
+                "answerText": "ALL",
+                "isCorrect": false
+            }, {
+                "answerText": "ABOVE ALL",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "A blockage in the coronary arteries which restricts blood flow",
+            "answers": [{
+                "answerText": "TRUE",
+                "isCorrect": true
+            }, {
+                "answerText": "FALSE",
+                "isCorrect": false
+            }, {
+                "answerText": "ALL",
+                "isCorrect": false
+            }, {
+                "answerText": "ABOVE ALL",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Do heart attacks only happen to older people?",
+            "answers": [{
+                "answerText": "yes",
+                "isCorrect": false
+            }, {
+                "answerText": "no",
+                "isCorrect": true
+            }, {
+                "answerText": "all",
+                "isCorrect": false
+            }, {
+                "answerText": "all of the above",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Common causes heart attack : i.smoking ii.blood pressure iii.stress iv. life style",
+            "answers": [{
+                "answerText": "i,ii,iii",
+                "isCorrect": false
+            }, {
+                "answerText": "i,ii,iii",
+                "isCorrect": false
+            }, {
+                "answerText": "i,ii",
+                "isCorrect": false
+            }, {
+                "answerText": "i,ii,iii,iv",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "Vice like crushing chest pain which may radiate down the arm",
+            "answers": [{
+                "answerText": "TRUE",
+                "isCorrect": true
+            }, {
+                "answerText": "FALSE",
+                "isCorrect": false
+            }, {
+                "answerText": "ALL",
+                "isCorrect": false
+            }, {
+                "answerText": "ABOVE ALL",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Heart attack,Collapse with warning",
+            "answers": [{
+                "answerText": "TRUE",
+                "isCorrect": false
+            }, {
+                "answerText": "FALSE",
+                "isCorrect": true
+            }, {
+                "answerText": "ALL",
+                "isCorrect": false
+            }, {
+                "answerText": "ABOVE ALL",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "This is especially true with athletes that have collapsed due to heart failure however fit and healthy.",
+            "answers": [{
+                "answerText": "TRUE",
+                "isCorrect": true
+            }, {
+                "answerText": "FALSE",
+                "isCorrect": false
+            }, {
+                "answerText": "ALL",
+                "isCorrect": false
+            }, {
+                "answerText": "ABOVE ALL",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "How old is a Infant in First Aid Terms?",
+            "answers": [{
+                "answerText": "1 year",
+                "isCorrect": true
+            }, {
+                "answerText": "2 year",
+                "isCorrect": false
+            }, {
+                "answerText": "3 year",
+                "isCorrect": false
+            }, {
+                "answerText": "4 year",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "How old is a child in First Aid Terms?",
+            "answers": [{
+                "answerText": "1 year",
+                "isCorrect": true
+            }, {
+                "answerText": "2 year",
+                "isCorrect": false
+            }, {
+                "answerText": "3 year",
+                "isCorrect": false
+            }, {
+                "answerText": "4 year",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "A Green Stick Fracture is fractured\/splintered on one side and bent on the other",
+            "answers": [{
+                "answerText": "TRUE",
+                "isCorrect": true
+            }, {
+                "answerText": "FALSE",
+                "isCorrect": false
+            }, {
+                "answerText": "ALL",
+                "isCorrect": false
+            }, {
+                "answerText": "ABOVE ALL",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "How would a child look if they were going into shock?",
+            "answers": [{
+                "answerText": "A child will be going pale, cold and clammy if in shock!",
+                "isCorrect": true
+            }, {
+                "answerText": "A child will be bleeding from nose",
+                "isCorrect": false
+            }, {
+                "answerText": "A child will have lot of pain",
+                "isCorrect": false
+            }, {
+                "answerText": "A child's body temperature will go up",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Can you use a defibrillator on a child?",
+            "answers": [{
+                "answerText": "YES, you can",
+                "isCorrect": true
+            }, {
+                "answerText": "No you cannot",
+                "isCorrect": false
+            }, {
+                "answerText": "ALL",
+                "isCorrect": false
+            }, {
+                "answerText": "ABOVE ALL",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "How do you treat a nose bleed?",
+            "answers": [{
+                "answerText": "Pinch the soft part of the child\u2019s nose and ask them to lean forward",
+                "isCorrect": false
+            }, {
+                "answerText": "Continue to pinch the soft part of their nose for ten minutes.",
+                "isCorrect": false
+            }, {
+                "answerText": "Seek medical advice if the bleeding continues for more than 30 minutes.",
+                "isCorrect": false
+            }, {
+                "answerText": "all of the above",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "A child will go in the recovery position when they are unconscious and breathing normally",
+            "answers": [{
+                "answerText": "TRUE",
+                "isCorrect": true
+            }, {
+                "answerText": "FALSE",
+                "isCorrect": false
+            }, {
+                "answerText": "ALL",
+                "isCorrect": false
+            }, {
+                "answerText": "ABOVE ALL",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Your infant is choking. What would you do?",
+            "answers": [{
+                "answerText": "Encourage to cough",
+                "isCorrect": false
+            }, {
+                "answerText": "Up to 5 Back Blows",
+                "isCorrect": false
+            }, {
+                "answerText": "Up to 5 Chest Thrusts",
+                "isCorrect": false
+            }, {
+                "answerText": "all of the above",
+                "isCorrect": true
+            }]
+        }]
+    }, {
+        "name": "Round 10",
+        "pointsAddedForCorrectAnswer": 1,
+        "questions": [{
+            "questionText": "Which of the following reasons causes accidents",
+            "answers": [{
+                "answerText": "Alertness",
+                "isCorrect": false
+            }, {
+                "answerText": "Activeness",
+                "isCorrect": false
+            }, {
+                "answerText": "Carelessness",
+                "isCorrect": true
+            }, {
+                "answerText": "Cautiousness",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Which of the following should be followed to prevent accidents at home?",
+            "answers": [{
+                "answerText": "Carelessness at outside",
+                "isCorrect": false
+            }, {
+                "answerText": "Carelessness at home",
+                "isCorrect": true
+            }, {
+                "answerText": "Neglecting safety rules at home",
+                "isCorrect": false
+            }, {
+                "answerText": "All of the above",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Which of the following is a wrong statement?",
+            "answers": [{
+                "answerText": "Walk on the footpath.",
+                "isCorrect": false
+            }, {
+                "answerText": "Stand in a queue at the bus stop.",
+                "isCorrect": false
+            }, {
+                "answerText": "Do not get into or off a moving bus.",
+                "isCorrect": false
+            }, {
+                "answerText": "Do not obey the traffic rules.",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "While riding a bicycle we should always keep to",
+            "answers": [{
+                "answerText": "the right of the road.",
+                "isCorrect": false
+            }, {
+                "answerText": "the left of the road.",
+                "isCorrect": true
+            }, {
+                "answerText": "the middle of the road.",
+                "isCorrect": false
+            }, {
+                "answerText": "the north of the road.",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "While travelling in a bus, we must keep",
+            "answers": [{
+                "answerText": "quiet.",
+                "isCorrect": true
+            }, {
+                "answerText": "moving.",
+                "isCorrect": false
+            }, {
+                "answerText": "shouting",
+                "isCorrect": false
+            }, {
+                "answerText": "playing",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Which of the following things is safe for sharpening a pencil?",
+            "answers": [{
+                "answerText": "A blade",
+                "isCorrect": false
+            }, {
+                "answerText": "A knife",
+                "isCorrect": false
+            }, {
+                "answerText": "A sharpener",
+                "isCorrect": true
+            }, {
+                "answerText": "A pair of scissors",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Which of the following traffic signals to the vehicles indicates that you can cross the road?",
+            "answers": [{
+                "answerText": "Red light",
+                "isCorrect": false
+            }, {
+                "answerText": "Yellow light",
+                "isCorrect": false
+            }, {
+                "answerText": "Orange light",
+                "isCorrect": false
+            }, {
+                "answerText": "Green light",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "What is zebra crossing?",
+            "answers": [{
+                "answerText": "It is a place where vehicles can be parked.",
+                "isCorrect": false
+            }, {
+                "answerText": "It is a crossing where zebras cross.",
+                "isCorrect": false
+            }, {
+                "answerText": "It is a path where pedestrians can walk.",
+                "isCorrect": false
+            }, {
+                "answerText": "It is a set of lines painted on the road for safe crossing.",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "Which of the following is NOT a safety rule to be followed on the road?",
+            "answers": [{
+                "answerText": "Use a zebra crossing to cross the road.",
+                "isCorrect": false
+            }, {
+                "answerText": "Do not run on the road.",
+                "isCorrect": false
+            }, {
+                "answerText": "Do not use the footpath to walk on a busy road.",
+                "isCorrect": true
+            }, {
+                "answerText": "Look at both sides before crossing the road.",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Which of the following safety rules should be followed in the swimming pool?",
+            "answers": [{
+                "answerText": "Swim alone in the swimming pool.",
+                "isCorrect": false
+            }, {
+                "answerText": "Push or pull each other while you are in the water.",
+                "isCorrect": false
+            }, {
+                "answerText": "Go to the deep side of the pool.",
+                "isCorrect": false
+            }, {
+                "answerText": "Use swimming tubes, floaters or arm bands.",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "We must NOT get into or get off a",
+            "answers": [{
+                "answerText": "play ground.",
+                "isCorrect": false
+            }, {
+                "answerText": "school.",
+                "isCorrect": false
+            }, {
+                "answerText": "moving bus.",
+                "isCorrect": true
+            }, {
+                "answerText": "house.",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "It is dangerous to play on\/in",
+            "answers": [{
+                "answerText": "the play ground.",
+                "isCorrect": false
+            }, {
+                "answerText": "an open space.",
+                "isCorrect": false
+            }, {
+                "answerText": "the road.",
+                "isCorrect": true
+            }, {
+                "answerText": "the school ground.",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Which of these is a safety rule while at home?",
+            "answers": [{
+                "answerText": "We should play with knives.",
+                "isCorrect": false
+            }, {
+                "answerText": "We should play with blades.",
+                "isCorrect": false
+            }, {
+                "answerText": "We should not play with sharp tools.",
+                "isCorrect": true
+            }, {
+                "answerText": "We should play with broken toys.",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Which of the following should be done, if someone gets injured?",
+            "answers": [{
+                "answerText": "We should not tell our mother.",
+                "isCorrect": false
+            }, {
+                "answerText": "We should not tell our parents.",
+                "isCorrect": false
+            }, {
+                "answerText": "We should ask an adult for help.",
+                "isCorrect": true
+            }, {
+                "answerText": "We should shout.",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Which of the following is NOT a safety rule to be followed while playing?",
+            "answers": [{
+                "answerText": "Play in a playground.",
+                "isCorrect": false
+            }, {
+                "answerText": "Do not play on the road.",
+                "isCorrect": false
+            }, {
+                "answerText": "Do not lean over the edge of the terrace wall.",
+                "isCorrect": false
+            }, {
+                "answerText": "Push or pull someone for fun.",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "Which of the following is a wrong statement?",
+            "answers": [{
+                "answerText": "Do not play with broken toys.",
+                "isCorrect": false
+            }, {
+                "answerText": "Do not keep your toys and things properly in their places.",
+                "isCorrect": true
+            }, {
+                "answerText": "Do not play with live electric wires.",
+                "isCorrect": false
+            }, {
+                "answerText": "Do not play near a lighted stove.",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "In traffic signals, ___ light indicates to stop the vehicles.",
+            "answers": [{
+                "answerText": "Red light",
+                "isCorrect": true
+            }, {
+                "answerText": "Green light",
+                "isCorrect": false
+            }, {
+                "answerText": "Yellow light",
+                "isCorrect": false
+            }, {
+                "answerText": "Orange light",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "Which of the following should NOT be done on a staircase at school?",
+            "answers": [{
+                "answerText": "Rush while coming down the stairs.",
+                "isCorrect": true
+            }, {
+                "answerText": "We should not pull other children.",
+                "isCorrect": false
+            }, {
+                "answerText": "We should not push other children.",
+                "isCorrect": false
+            }, {
+                "answerText": "We should climb the steps in a line.",
+                "isCorrect": false
+            }]
+        }, {
+            "questionText": "We should NOT fly kites",
+            "answers": [{
+                "answerText": "in parks.",
+                "isCorrect": false
+            }, {
+                "answerText": "in school ground.",
+                "isCorrect": false
+            }, {
+                "answerText": "in open grounds.",
+                "isCorrect": false
+            }, {
+                "answerText": "on the open terrace.",
+                "isCorrect": true
+            }]
+        }, {
+            "questionText": "What is the first thing we should do when a person is injured and bleeding badly?",
+            "answers": [{
+                "answerText": "Call the police and elders.",
+                "isCorrect": false
+            }, {
+                "answerText": "Inform our principal.",
+                "isCorrect": false
+            }, {
+                "answerText": "Tie a tight cloth around the injury to stop bleeding.",
+                "isCorrect": true
+            }, {
+                "answerText": "Call the doctor.",
+                "isCorrect": false
+            }]
+        }]
+    }]
+}

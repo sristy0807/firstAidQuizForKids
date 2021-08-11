@@ -7,14 +7,21 @@ public class PanelChanger : MonoBehaviour
 {
     public GameObject[] UIPanels;
 
-    public static int currentActivePanelID;
+    public static int currentActivePanelID=-1;
 
-    public void GoToPanell(int id)
+    public void GoToPanel(int id)
     {
         if (id < UIPanels.Length)
         {
             UIPanels[id].gameObject.SetActive(true);
-            UIPanels[currentActivePanelID].gameObject.SetActive(false);
+            try
+            {
+                UIPanels[currentActivePanelID].gameObject.SetActive(false);
+            }
+            catch
+            {
+                Debug.Log("This is the first panel opening");
+            }
             currentActivePanelID = id;
         }
         else
@@ -25,5 +32,9 @@ public class PanelChanger : MonoBehaviour
       
     }
 
+    public void Quit()
+    {
+        Application.Quit();
+    }
 
 }
