@@ -9,13 +9,15 @@ public class PlayerProgress : MonoBehaviour
 {
     public int totalScore;
     public int currentLevelToPlay;
+    public int SelectedCharacter;
 
     string scoreKey = "scoreKey";
+    string characterKey = "character";
 
-    public void AddNewScore(int score, int level)
+    public void AddNewScore(int score)
     {
         int _score = PlayerPrefs.GetInt(scoreKey);
-        _score += score + (10 * level);
+        _score += score ;
 
         PlayerPrefs.SetInt(scoreKey, _score);
     }
@@ -25,5 +27,17 @@ public class PlayerProgress : MonoBehaviour
         int _score = PlayerPrefs.GetInt(scoreKey);
 
         return _score;
+    }
+
+    public void SetCharacter(int id)
+    {
+        SelectedCharacter = id;
+        PlayerPrefs.SetInt(characterKey, id);
+    }
+
+    public int GetCharacterID()
+    {
+        int id = PlayerPrefs.GetInt(scoreKey);
+        return id;
     }
 }
