@@ -8,7 +8,7 @@ public class Level : MonoBehaviour
 
     public void SetLevel()
     {
-        QuizManager.instance.GetQuestion(thisLevel);
+        GameManager.instance.NewActiveLevelSelected(thisLevel);
         Debug.Log("This level: " + thisLevel);
     }
 }
