@@ -10,6 +10,18 @@ public class HorizontalListChanger : MonoBehaviour
 
     private int activeID=0;
 
+    public void Reset()
+    {
+        foreach(RectTransform rt in elements)
+        {
+            rt.gameObject.SetActive(false);
+        }
+       ;
+        activeID = 0;
+        elements[activeID].gameObject.SetActive(true);
+        LeftArrow.gameObject.SetActive(false);
+    }
+
     public void OnClickRightArrow()
     {
         activeID++;

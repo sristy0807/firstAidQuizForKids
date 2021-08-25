@@ -19,7 +19,7 @@ public class QuizPanel : MonoBehaviour
     public Text QuestionText;
     public Text[] AnswerTexts;
 
-    public GameObject rightAnswerAnimation;
+    public GameObject AnswerButtonOverPanel;
     public GameObject wrongAnswerAnimation;
 
 
@@ -63,17 +63,21 @@ public class QuizPanel : MonoBehaviour
 
     public void AnswerClicked(int id)
     {
-        if(id == rightAnswerID)
+        AnswerButtonOverPanel.gameObject.SetActive(true);
+        if (id == rightAnswerID)
         {
             Debug.Log("right Answer");
             rightAnswersCount++;
-            rightAnswerAnimation.gameObject.SetActive(true);
+            
+            AnswerTexts[id].GetComponent<Text>().color = Color.green;
 
         }
         else
         {
             Debug.Log("wrong Answer");
-            wrongAnswerAnimation.gameObject.SetActive(true);
+          
+            AnswerTexts[id].color = Color.red;
+            AnswerTexts[rightAnswerID].color = Color.green;
         }
 
         StartCoroutine(CompleteAnimationForNextQuestion());
@@ -82,8 +86,11 @@ public class QuizPanel : MonoBehaviour
     IEnumerator CompleteAnimationForNextQuestion()
     {
         yield return new WaitForSeconds(2f);
-        rightAnswerAnimation.gameObject.SetActive(false);
-        wrongAnswerAnimation.gameObject.SetActive(false);
+        
+       foreach(Text text in AnswerTexts)
+        {
+            text.color = Color.white;
+        }
         if (runningQuestionIndex < NumberOfQuestions)
         {
             NewQuestion();
@@ -93,8 +100,8 @@ public class QuizPanel : MonoBehaviour
             runningQuestionIndex = 0;
             LevelComplete();
         }
-
-     }
+        AnswerButtonOverPanel.gameObject.SetActive(false);
+    }
 
     public void LevelComplete()
     {

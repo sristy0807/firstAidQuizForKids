@@ -40,4 +40,11 @@ public class PlayerProgress : MonoBehaviour
         int id = PlayerPrefs.GetInt(scoreKey);
         return id;
     }
+
+    public int GetRewardPoint()
+    {
+        return RewardPointManager.instance.CurrentCoinCount;
+    }
+
+    
 }
