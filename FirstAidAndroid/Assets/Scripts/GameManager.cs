@@ -6,6 +6,8 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager instance;
 
+    public PlayerProgress playerProgress;
+
     private int currentLevel;
     private int maxCompletedLevel;
 
@@ -15,6 +17,18 @@ public class GameManager : MonoBehaviour
 
     public int CurrentLevel { get => currentLevel;  }
     public int MaxLevel { get => maxCompletedLevel; set => maxCompletedLevel = value; }
+    public int CurrentUnlockedMaxLevel
+    {
+        get
+        {
+            int lvl = 10;
+            if (TrophyManager.instance.NextTrophyID > 0)
+            {
+                lvl = (TrophyManager.instance.NextTrophyID + 1) * 2;
+            }
+            return lvl;
+        }
+    }
 
     private void Awake()
     {

@@ -6,5 +6,6 @@ public class PlayerData
 {
     public int GoldCount;
     public int CharacterID;
+    public int XPcount;
 
 }

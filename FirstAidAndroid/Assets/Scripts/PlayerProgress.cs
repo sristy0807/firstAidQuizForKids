@@ -7,8 +7,8 @@ using UnityEngine.SceneManagement;
 
 public class PlayerProgress : MonoBehaviour
 {
-    public int totalScore;
-    public int currentLevelToPlay;
+ 
+    //public int currentLevelToPlay;
     public int SelectedCharacter;
 
     string scoreKey = "scoreKey";
@@ -37,7 +37,7 @@ public class PlayerProgress : MonoBehaviour
 
     public int GetCharacterID()
     {
-        int id = PlayerPrefs.GetInt(scoreKey);
+        int id = PlayerPrefs.GetInt(characterKey);
         return id;
     }
 
@@ -46,5 +46,8 @@ public class PlayerProgress : MonoBehaviour
         return RewardPointManager.instance.CurrentCoinCount;
     }
 
-    
+    public int GetXP() {
+        return XPManager.instance.CurrentXPCount;
+    }
+   
 }

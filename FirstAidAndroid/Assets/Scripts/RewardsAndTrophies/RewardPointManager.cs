@@ -13,6 +13,7 @@ public class RewardPointManager : MonoBehaviour
 
     public int  LoadCurrentCoinCount()
     {
+        Debug.Log("getting coin data: " + PlayerPrefs.HasKey(RewardPointSaveKey) + ", count: " + PlayerPrefs.GetInt(RewardPointSaveKey));
         return PlayerPrefs.GetInt(RewardPointSaveKey);
     }
 

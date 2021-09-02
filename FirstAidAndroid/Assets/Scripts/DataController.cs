@@ -17,15 +17,12 @@ public class DataController : MonoBehaviour
     private PlayerProgress playerProgress;
 
    
-    public int GetTotalScore()
-    {
-        return playerProgress.totalScore;
-    }
 
-    public int GetCurrentLevel()
-    {
-        return playerProgress.currentLevelToPlay;
-    }
+
+    //public int GetCurrentLevel()
+    //{
+    //    return playerProgress.currentLevelToPlay;
+    //}
   
 
     public int ActiveRoundID

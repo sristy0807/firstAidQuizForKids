@@ -14,6 +14,7 @@ public class QuizPanel : MonoBehaviour
     private int runningQuestionIndex;
     private int rightAnswerID;
     private int rightAnswersCount;
+    private int currentLevel;
 
     public Text LevelText;
     public Text QuestionText;
@@ -26,10 +27,12 @@ public class QuizPanel : MonoBehaviour
     public UnityEvent LevelCompleteEvent;
     public UnityEvent GameOverEvent;
 
-
+    public LevelCompletePanel levelCompletePanel;
+    
 
     public void GetQuestionForCurrentLevel(int _level)
     {
+        currentLevel = _level;
         LevelText.text = "Level " + _level;
         _level = _level - 1;
         var random = new System.Random();
@@ -63,6 +66,7 @@ public class QuizPanel : MonoBehaviour
 
     public void AnswerClicked(int id)
     {
+        bool isCorrect=false;
         AnswerButtonOverPanel.gameObject.SetActive(true);
         if (id == rightAnswerID)
         {
@@ -70,6 +74,7 @@ public class QuizPanel : MonoBehaviour
             rightAnswersCount++;
             
             AnswerTexts[id].GetComponent<Text>().color = Color.green;
+            isCorrect = true;
 
         }
         else
@@ -78,8 +83,10 @@ public class QuizPanel : MonoBehaviour
           
             AnswerTexts[id].color = Color.red;
             AnswerTexts[rightAnswerID].color = Color.green;
+            isCorrect = false;
         }
-
+        
+        AnswerButtonOverPanel.GetComponent<QuizAnswerFooterPanel>().QuizAnswerResult(isCorrect, currentLevel, GameManager.instance.playerProgress.GetCharacterID());
         StartCoroutine(CompleteAnimationForNextQuestion());
     }
 
@@ -112,6 +119,7 @@ public class QuizPanel : MonoBehaviour
         }
         else
         {
+            levelCompletePanel.correctAnswersForThisCompletedLevel = rightAnswersCount;
             rightAnswersCount = 0;
             LevelCompleteEvent.Invoke();
         }

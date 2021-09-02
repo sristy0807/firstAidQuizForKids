@@ -5,7 +5,9 @@ using UnityEngine.Events;
 
 public class UIPanel : MonoBehaviour
 {
-    public UnityEvent OnPanelIntitializeEvent;
+    public UnityEvent OnPanelAppearanceStartsEvent;
+    public UnityEvent OnPanelAppearanceCompltedEvent;
+    public UnityEvent OnDisappearEvent;
 
     
 }

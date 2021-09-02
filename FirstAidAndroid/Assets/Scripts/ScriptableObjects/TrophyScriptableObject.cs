@@ -10,5 +10,16 @@ public class TrophyScriptableObject : ScriptableObject
     public int requiredXP;
     public string trophyAchievedKey;
 
-    public bool trophyAchieved { get => (PlayerPrefs.GetInt(trophyAchievedKey) == 1) ? true : false; }
+    public bool trophyAchieved {
+        get
+        {
+            if (PlayerPrefs.GetInt(trophyAchievedKey) == 1) {
+                return true;
+             }
+            else {
+                return false;
+            }
+
+        }
+    }
 }

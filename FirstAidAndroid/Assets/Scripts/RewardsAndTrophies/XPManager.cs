@@ -26,7 +26,6 @@ public class XPManager : MonoBehaviour
 
     public void UpdateCurrentXPCountAfterLevelCompletion(int numberOfRightAnswers)
     {
-        LoadCurrentXPCount();
         int result = perCorrectAnswerXPgained * numberOfRightAnswers;
         currentXPCount += result;
     }
