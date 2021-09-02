@@ -26,9 +26,22 @@ public class XPManager : MonoBehaviour
 
     public void UpdateCurrentXPCountAfterLevelCompletion(int numberOfRightAnswers)
     {
-        int result = perCorrectAnswerXPgained * numberOfRightAnswers;
+        int result = 0;
+        if (numberOfRightAnswers < 4)
+        {
+            result = perCorrectAnswerXPgained * numberOfRightAnswers;
+        }
+        else {
+            result = 150; // all correct answers for 2 levels can result 300 xp points which is required to earn a trophy
+        }
+        
         currentXPCount += result;
     }
+
+    public void ResetXP() {
+        currentXPCount = 0;
+    }
+
 
     private void Awake()
     {

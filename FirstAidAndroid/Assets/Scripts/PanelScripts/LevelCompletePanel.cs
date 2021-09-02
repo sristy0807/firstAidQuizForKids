@@ -8,10 +8,12 @@ public class LevelCompletePanel : MonoBehaviour
 {
     public UnityEvent NextLevelAvailableEvent;
     public UnityEvent LastLevelCompletedEvent;
+    public UnityEvent TrophyAvailableToClaimEvent;
 
     public int correctAnswersForThisCompletedLevel;
     public StarAnimation starAnimation;
     public PlayerProgress playerProgress;
+    public TrophyCalimingPanel trophyCalimingPanel;
 
     public Text RewardPointText;
 
@@ -37,8 +39,28 @@ public class LevelCompletePanel : MonoBehaviour
         UpdateRewardPointText();
 
         // add xp and show animation
+        Debug.Log("current XP: " + XPManager.instance.CurrentXPCount);
+        XPManager.instance.UpdateCurrentXPCountAfterLevelCompletion(correctAnswersForThisCompletedLevel);
+        Debug.Log("New XP earned: " + XPManager.instance.CurrentXPCount);
+
         //if new trophy achievable, show trophy claiming animation. update trophy manager;
+      //  CheckingTrophyAvailability(); - this is now called on star animation completed event
     }
+
+    public void CheckingTrophyAvailability() {
+        if (TrophyManager.instance.isNewTrophyAvailableToClaim(XPManager.instance.CurrentXPCount))
+        {
+            Debug.Log("New trophy available");
+            TrophyAvailableToClaimEvent.Invoke();
+            trophyCalimingPanel.InitializeTrophyClaimPanel(TrophyManager.instance.Trophies[TrophyManager.instance.NextTrophyID]);
+        }
+        else
+        {
+            Debug.Log("NO trophy available");
+            return;
+        }
+    }
+
 
     public void OnThisPanelDisAppear()
     {

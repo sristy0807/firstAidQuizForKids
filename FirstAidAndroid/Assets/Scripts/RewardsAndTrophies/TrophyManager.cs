@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class TrophyManager : MonoBehaviour
 {
@@ -8,6 +9,7 @@ public class TrophyManager : MonoBehaviour
 
     public TrophyScriptableObject[] Trophies;
 
+   
     public int NextTrophyID
     {
         get => GetNextTrophyID();
@@ -34,7 +36,9 @@ public class TrophyManager : MonoBehaviour
         }
     }
 
-    private bool isNewTrophyAvailableToClaim(int xp)
+   
+
+    public bool isNewTrophyAvailableToClaim(int xp)
     {
         if (GetNextTrophyID() < 0)
         {
@@ -56,21 +60,12 @@ public class TrophyManager : MonoBehaviour
     }
 
     //called when trophy is claimed
-    private void AssignNewTrophy(string newTrophyKey)
+    public void AssignNewTrophy(string key)
     {
-        PlayerPrefs.SetInt(newTrophyKey, 1);
+        PlayerPrefs.SetInt(key, 1);
+        XPManager.instance.ResetXP();
     }
 
-
-    public void OnLevelCompleteTrophyUpdate(int xp)
-    {
-        if (isNewTrophyAvailableToClaim(xp))
-        {
-         //go to the trophy claim panel
-         
-        }
-
-    }
 
 
 

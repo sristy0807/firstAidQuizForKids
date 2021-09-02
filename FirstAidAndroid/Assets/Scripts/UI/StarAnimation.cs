@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using DG.Tweening;
 using UnityEngine.UI;
+using UnityEngine.Events;
 
 public class StarAnimation : MonoBehaviour
 {
@@ -11,6 +12,8 @@ public class StarAnimation : MonoBehaviour
     public Image CoinImage;
 
     private int curentStarCount;
+
+    public UnityEvent StarAnimationCompleteEvent;
 
     private void Start()
     {
@@ -33,11 +36,13 @@ public class StarAnimation : MonoBehaviour
          //   ReverseAnimation();
 
         }
+        StarAnimationCompleteEvent.Invoke();
         
     }
 
     private void  ReverseAnimation()
     {
+        Debug.Log("Reverse star animation called");
         CoinImage.DOFade(0, .1f);
         rewardTexts[curentStarCount - 1].DOFade(0, 0.05f);
 
