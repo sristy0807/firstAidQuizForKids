@@ -38,10 +38,18 @@ public class LevelCompletePanel : MonoBehaviour
         RewardPointManager.instance.UpdateCurrentCoinCoutAfterLevelCompletion(correctAnswersForThisCompletedLevel - 1);
         UpdateRewardPointText();
 
-        // add xp and show animation
-        Debug.Log("current XP: " + XPManager.instance.CurrentXPCount);
-        XPManager.instance.UpdateCurrentXPCountAfterLevelCompletion(correctAnswersForThisCompletedLevel);
-        Debug.Log("New XP earned: " + XPManager.instance.CurrentXPCount);
+        // add xp and show xp animation if this level is applicable
+        if (GameManager.instance.CurrentLevel == (TrophyManager.instance.NextTrophyID+1)*2 || GameManager.instance.CurrentLevel == (TrophyManager.instance.NextTrophyID *2) + 1)
+        {
+            Debug.Log("Xp so far:  " + XPManager.instance.CurrentXPCount);
+            XPManager.instance.UpdateCurrentXPCountAfterLevelCompletion(correctAnswersForThisCompletedLevel);
+            Debug.Log("Xp so far:  " + XPManager.instance.CurrentXPCount);
+        }
+        else {
+            Debug.Log("No XP for this level " + GameManager.instance.CurrentLevel + ", xp available for levels  " + (TrophyManager.instance.NextTrophyID + 1) * 2 + ", " + ((TrophyManager.instance.NextTrophyID * 2) + 1));
+        }
+
+        
 
         //if new trophy achievable, show trophy claiming animation. update trophy manager;
       //  CheckingTrophyAvailability(); - this is now called on star animation completed event

@@ -49,6 +49,9 @@ public class XPManager : MonoBehaviour
         {
             instance = this;
         }
+
+
+        Debug.Log("xp count : " + currentXPCount);
     }
 
 

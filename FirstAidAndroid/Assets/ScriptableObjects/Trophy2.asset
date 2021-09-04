@@ -15,5 +15,5 @@ MonoBehaviour:
   title: PROMPT AND QUICK
   trophyIcon: {fileID: -6756931940305012897, guid: 219e9ccf5d8114eb198f2a3c29327284,
     type: 3}
-  requiredXP: 900
+  requiredXP: 300
   trophyAchievedKey: t2

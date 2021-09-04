@@ -6,9 +6,10 @@ public class Level : MonoBehaviour
 {
     public int thisLevel;
 
+
     public void SetLevel()
     {
         GameManager.instance.NewActiveLevelSelected(thisLevel);
-        Debug.Log("This level: " + thisLevel);
+        Debug.Log("This level: " + thisLevel + ", trophy " + TrophyManager.instance.NextTrophyID);
     }
 }
