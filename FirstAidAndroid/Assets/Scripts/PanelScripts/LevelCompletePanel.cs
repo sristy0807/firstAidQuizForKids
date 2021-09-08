@@ -80,7 +80,7 @@ public class LevelCompletePanel : MonoBehaviour
     {
         progressMeter.gameObject.SetActive(true);
         float currentFillValue = initialValue;
-        
+        progressMeter.ShowXPtext(fillValue, maxValue);
         while(currentFillValue < fillValue)
         {
             progressMeter.IncreaseFillValue(currentFillValue, maxValue);

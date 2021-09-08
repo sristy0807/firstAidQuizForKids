@@ -1,0 +1,145 @@
+{
+    "allRoundData": [{
+      "name": "Ankle Twisted",
+      "pointsAddedForC1orrectAnswer": 1,
+      "questions": [{
+          "questionText": "1. What is the main cause of twisted ankle?",
+          "answers": [{
+              "answerText": "if get a hit on your ankle",
+              "isCorrect": false
+          }, {
+              "answerText": "if twisted leg finger ",
+              "isCorrect": false
+          }, {
+              "answerText": "if your ankle twisted",
+              "isCorrect": true
+          }, {
+              "answerText": "if Injuries to the feet",
+              "isCorrect": false
+          }]
+      }, {
+        "questionText": "2. What Happened When Your Ankle Twisted?",
+        "answers": [{
+            "answerText": "ligament stretched",
+            "isCorrect": true
+        }, {
+            "answerText": "ligament broken",
+            "isCorrect": false
+        }, {
+            "answerText": "leg bone damaged",
+            "isCorrect": false
+        }, {
+            "answerText": "ligament tissue damaged",
+            "isCorrect": false
+        }]
+    }, {
+        "questionText": "3. What you will use When Your Ankle Twisted",
+        "answers": [{
+            "answerText": "paste",
+            "isCorrect": false
+        }, {
+            "answerText": "water",
+            "isCorrect": false
+        }, {
+            "answerText": "soil",
+            "isCorrect": false
+        }, {
+            "answerText": "ice",
+            "isCorrect": true
+        }]
+    }, {
+        "questionText": "4 : How long you should rub with ice?",
+        "answers": [{
+            "answerText": "5 to 10 minutes ",
+            "isCorrect": false
+        }, {
+            "answerText": "10 to 15 minutes ",
+            "isCorrect": false
+        }, {
+            "answerText": "15 to 20 minutes ",
+            "isCorrect": true
+        }, {
+            "answerText": "25 to 30 minutes ",
+            "isCorrect": false
+        }]
+    }, {
+        "questionText": "5 :  How long should you repeat the procedure?",
+        "answers": [{
+            "answerText": "one to three hours",
+            "isCorrect": false
+        }, {
+            "answerText": "two to three hours",
+            "isCorrect": true
+        }, {
+            "answerText": "one to two hours",
+            "isCorrect": false
+        }, {
+            "answerText": " three to four hours",
+            "isCorrect": false
+        }]
+    }, {
+        "questionText": "6 : When you twist your ankle, it means you have stretched the leg bone.?",
+        "answers": [{
+            "answerText": "true",
+            "isCorrect": false
+        }, {
+            "answerText": "false",
+            "isCorrect": true
+        }]
+    }, { 
+        "questionText": "7 : You have stepped the wrong way and suddenly turned your _____",
+        "answers": [{
+            "answerText": "ligament",
+            "isCorrect": false
+        }, {
+            "answerText": "ankle",
+            "isCorrect": true
+        }, {
+            "answerText": "bone",
+            "isCorrect": false
+        }, {
+            "answerText": "All The Avobe",
+            "isCorrect": false
+        }]
+    }, {
+        "questionText": "8 : In Twisted Ankle We Should  Avoid   ___",
+        "answers": [{
+            "answerText": "take rest",
+            "isCorrect": false
+        }, {
+            "answerText": "Give Pressure On Foot",
+            "isCorrect": false
+        }, {
+            "answerText": " Bear weight ",
+            "isCorrect": true
+        }, {
+            "answerText": "None Of Them",
+            "isCorrect": false
+        }]
+    }, {
+        "questionText": "9 :  when we should consult a doctor? ",
+        "answers": [{
+            "answerText": " pain level and swelling is significant",
+            "isCorrect": false
+        }, {
+            "answerText": "foot is bruised or deformed",
+            "isCorrect": false
+        }, {
+            "answerText": "you are unable to walk at all",
+            "isCorrect": false
+        }, {
+            "answerText": "all of Them",
+            "isCorrect": true
+        }]
+    }, {
+        "questionText": "10: When you twist your ankle, it means you have stretched the leg bone.?",
+        "answers": [{
+            "answerText": "true",
+            "isCorrect": true
+        }, {
+            "answerText": "false",
+            "isCorrect": false
+        }]
+    }]
+  }]
+ }

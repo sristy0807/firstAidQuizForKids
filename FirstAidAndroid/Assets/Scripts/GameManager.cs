@@ -40,6 +40,7 @@ public class GameManager : MonoBehaviour
     {
         currentLevel = id;
         trainingPanel.UpdateLevelText(id);
+        trainingPanel.EnableLevelTrainingData(id);
         quizPanel.GetQuestionForCurrentLevel(id);
     }
     

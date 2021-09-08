@@ -28,6 +28,7 @@ public class QuizPanel : MonoBehaviour
     public UnityEvent GameOverEvent;
 
     public LevelCompletePanel levelCompletePanel;
+    public TextToSpeech textToSpeech;
     
 
     public void GetQuestionForCurrentLevel(int _level)
@@ -41,16 +42,23 @@ public class QuizPanel : MonoBehaviour
         for(int i = 0; i < qArray.Length; i++)
         {
             questionDataForThisLevel[i] = DataController.instance.allRoundData[_level].questions[qArray[i]];
-     
         }
 
         NewQuestion();
 
     }
 
+    public void PlayTheFirstQuestionAfterPanelAppeared()
+    {
+        textToSpeech.PlaySpeech(questionDataForThisLevel[0].questionText);
+    }
+
     public void NewQuestion() {
 
-            QuestionText.text = questionDataForThisLevel[runningQuestionIndex].questionText;
+        QuestionText.text = questionDataForThisLevel[runningQuestionIndex].questionText;
+        if (runningQuestionIndex > 0){
+            textToSpeech.PlaySpeech(questionDataForThisLevel[runningQuestionIndex].questionText);
+        }
             for(int i =0; i < 4; i++)
             {
                 AnswerTexts[i].text = questionDataForThisLevel[runningQuestionIndex].answers[i].answerText;
@@ -72,7 +80,7 @@ public class QuizPanel : MonoBehaviour
         {
             Debug.Log("right Answer");
             rightAnswersCount++;
-            
+            AudioManager.instance.PlayAudio(0);
             AnswerTexts[id].GetComponent<Text>().color = Color.green;
             isCorrect = true;
 
@@ -80,7 +88,7 @@ public class QuizPanel : MonoBehaviour
         else
         {
             Debug.Log("wrong Answer");
-          
+            AudioManager.instance.PlayAudio(1);
             AnswerTexts[id].color = Color.red;
             AnswerTexts[rightAnswerID].color = Color.green;
             isCorrect = false;
