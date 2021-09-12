@@ -882,24 +882,35 @@ MonoBehaviour:
         m_CallState: 2
   Dialogs:
   - Eye Injury
-  - I think you have stepped the wrong way and suddenly turned your ankle.
-  - " But were able to \u201Cwalk it off\u201D? "
-  - You most likely experienced a twisted ankle.
-  - 'When you twist your ankle, it means you have stretched the ligaments in your
-    ankle past the usual point. '
-  - '"You Feel Pain, especially when you bear weight on the affected foot. Feel pain
-    when you touch the ankle,Instability in the ankle, you get swelling & bruising."'
-  - '"Twisted Ankle cause A fall that causes your ankle to twist, Landing awkwardly
-    on your foot after jumping or pivoting. Walking or exercising on an uneven surface."'
-  - Sometimes Another person stepping or landing on your foot during a sports activity,
-    it twisted your ankle. Although it can be extremely painful when it happens
-  - When you feel twisted ankle you should take rest. Avoid activities that cause
-    pain, swelling or discomfort.
-  - '" Use an ice pack or ice slush bath immediately for 15 to 20 minutes and repeat
-    every two to three hours"'
-  - if your pain level and swelling is significant , if your foot is bruised, deformed,
-    or you are unable to walk at all. Go to the Doctor. You may have a fracture,
-    broken bone or serious ligament damage.
+  - Do you know Eye Swelling?Eye swelling is usually a result of something hitting
+    the area around the eye with extreme force, which results in a black eye
+  - Wash your hands thoroughly before touching the eyelids to examine or flush the
+    eye.Do not touch, press, or rub the eye itself
+  - Toy Weapons- Any toy that shoots or propels a small object can potentially cause
+    significant damage to the eyes
+  - Do you Know the first aid for eye injury?DO NOT rub or apply pressure to the
+    eye. GENTLY APPLY a small cold compress to reduce pain and swelling. Even a light
+    impact can cause severe injury to the eye.
+  - Anytime you experience swelling, redness, or pain in your eye, especially if
+    it occurs after an injury or having a foreign object or chemical in your eye
+    you should got to hospital.
+  - Eye injuries can result from sports injuries, accidents and foreign objects in
+    the eye. These can cause pain, swelling, redness and other symptoms. Some people
+    see flashes of light or have vision changes. Serious injuries to the eye may
+    cause permanent vision loss
+  - How long does it take to heal? Corneal abrasions will normally heal completely
+    within 48 hours. If the abrasion is in the centre of the cornea, your vision
+    may be slightly blurred. It is also normal that your eye will be a little red
+    and you may find bright lights uncomfortable until the abrasion has healed
+  - The cornea is the fastest healing tissue in the human body, thus, most corneal
+    abrasions will heal within 24-36 hours.
+  - Eye infection symptoms often go away on their own in a few days. But seek emergency
+    medical attention if you have severe symptoms. Pain or loss of vision should
+    prompt a visit to your doctor.
+  - The infection will usually clear up in 7 to 14 days without treatment and without
+    any long-term consequences. However, in some cases, viral conjunctivitis can
+    take 2 to 3 weeks or more to clear up. A doctor can prescribe antiviral medication
+    to treat more serious forms of conjunctivitis.
   DialogBox: {fileID: 1148841542}
   currentPage: 0
   firstTouch: 1
@@ -2662,7 +2673,6 @@ GameObject:
   - component: {fileID: 222279212}
   - component: {fileID: 222279215}
   - component: {fileID: 222279214}
-  - component: {fileID: 222279213}
   m_Layer: 5
   m_Name: TutorialPanel
   m_TagString: Untagged
@@ -2690,24 +2700,6 @@ RectTransform:
   m_AnchoredPosition: {x: -1302, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &222279213
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 222279211}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5c100444c7b284581962f0287dcb88b9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  trophyDetails:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
 --- !u!114 &222279214
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2722,18 +2714,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   OnPanelAppearanceStartsEvent:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 222279213}
-        m_MethodName: TrophyPanelInitializer
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
   OnPanelAppearanceCompltedEvent:
     m_PersistentCalls:
       m_Calls: []
@@ -2966,24 +2947,25 @@ MonoBehaviour:
         m_CallState: 2
   Dialogs:
   - Head Bump
-  - I think you have stepped the wrong way and suddenly turned your ankle.
-  - " But were able to \u201Cwalk it off\u201D? "
-  - You most likely experienced a twisted ankle.
-  - 'When you twist your ankle, it means you have stretched the ligaments in your
-    ankle past the usual point. '
-  - '"You Feel Pain, especially when you bear weight on the affected foot. Feel pain
-    when you touch the ankle,Instability in the ankle, you get swelling & bruising."'
-  - '"Twisted Ankle cause A fall that causes your ankle to twist, Landing awkwardly
-    on your foot after jumping or pivoting. Walking or exercising on an uneven surface."'
-  - Sometimes Another person stepping or landing on your foot during a sports activity,
-    it twisted your ankle. Although it can be extremely painful when it happens
-  - When you feel twisted ankle you should take rest. Avoid activities that cause
-    pain, swelling or discomfort.
-  - '" Use an ice pack or ice slush bath immediately for 15 to 20 minutes and repeat
-    every two to three hours"'
-  - if your pain level and swelling is significant , if your foot is bruised, deformed,
-    or you are unable to walk at all. Go to the Doctor. You may have a fracture,
-    broken bone or serious ligament damage.
+  - Your head maybe hit with something, thats why you are feeling headbump.
+  - '"A head injury is any sort of injury to your brain,skull,or scalp"'
+  - Head injuries may be either closed or open.
+  - As you say , you are facing a headache,lightheadedness, a spinning sensation,
+    mild confusion, nausea & temporary ringing in the ears.
+  - "I think you are suffering from closed head bump.closed head bump is mainly a
+    head injury  that doesn\u2019t break your skull."
+  - '"You should do Medication or counsoling with doctor & going for Surgery if needed
+    "'
+  - '"Advice for children (give them paracetamol  if they have a headache, avoid
+    getting them too  excited,avoid having too  many visitors,not let them  play
+    roughly for a few days)  "'
+  - '" Advice for adults (get plenty of rest  and avoid stressful  situations,avoid
+    drinking  alcohol or taking illegal  drugs,avoid taking sleeping  pills,avoid
+    playing contact  sports,not drive a car or  motorbike, ride a bicycle)"'
+  - '"Most head injuries are  not serious. You do  not usually need to  go to hospital
+    and  should make a full  recovery within 2 weeks. "'
+  - '"Headbumps are resolving by taking medicine,rest  and avoid stress but  some
+    headbump problems  are permanent and it  takes long time to solve it"'
   DialogBox: {fileID: 33295698}
   currentPage: 0
   firstTouch: 1
@@ -8274,24 +8256,31 @@ MonoBehaviour:
         m_CallState: 2
   Dialogs:
   - Nose Bleeding
-  - I think you have stepped the wrong way and suddenly turned your ankle.
-  - " But were able to \u201Cwalk it off\u201D? "
-  - You most likely experienced a twisted ankle.
-  - 'When you twist your ankle, it means you have stretched the ligaments in your
-    ankle past the usual point. '
-  - '"You Feel Pain, especially when you bear weight on the affected foot. Feel pain
-    when you touch the ankle,Instability in the ankle, you get swelling & bruising."'
-  - '"Twisted Ankle cause A fall that causes your ankle to twist, Landing awkwardly
-    on your foot after jumping or pivoting. Walking or exercising on an uneven surface."'
-  - Sometimes Another person stepping or landing on your foot during a sports activity,
-    it twisted your ankle. Although it can be extremely painful when it happens
-  - When you feel twisted ankle you should take rest. Avoid activities that cause
-    pain, swelling or discomfort.
-  - '" Use an ice pack or ice slush bath immediately for 15 to 20 minutes and repeat
-    every two to three hours"'
-  - if your pain level and swelling is significant , if your foot is bruised, deformed,
-    or you are unable to walk at all. Go to the Doctor. You may have a fracture,
-    broken bone or serious ligament damage.
+  - '"Your nose maybe hit  with something, thats why you are facing  nose bleeding
+    "'
+  - '"A nosebleed is the  loss of blood from the tissue that lines  the inside of
+    your nose.    "'
+  - '"Nose injuries may  be either anterior  nosebleed or  posterior nosebleed."'
+  - '"I think you are  suffering from  posterior nosebleed nose bleeding."'
+  - '"A posterior nosebleed occurs deep inside the  nose. This nosebleed is  caused
+    by a bleed in  larger blood vessels  in the back part of  the nose near the 
+    throat"'
+  - '"Causes of nosebleeds (Nose picking,Blowing  your nose with force, Inserting
+    an object  into your nose,High  altitudes,Frequent  use of nasal sprays)"'
+  - '"To stop a nosebleed (Relax,Sit upright and  lean your body,Breathe  through
+    your mouth,Use a  tissue or damp washcloth  to catch the blood,Keep  pinching
+    your nose  continuously for at least  5 minutes,You can spray  an over-the-counter 
+    decongestant spray "'
+  - '"You should do Nasal packing, or Cauterization or new prescriptions or Foreign
+    body removal  & Ligation"'
+  - '"To prevent nosebleeds (Use a saline nasal  spray or saline nose  drops,Add
+    a humidifier  to your furnace,Spread  water-soluble nasal gels, Avoid blowing
+    your nose  too forcefully,Sneeze  through an open mouth, Avoid putting anything 
+    solid into your nose,  including fingers) "'
+  - '"There are many non-serious  reasons why you may be  getting frequent nosebleeds.
+    In rare cases, repeated  nosebleeds could be a sign  of a bleeding disorder or 
+    other more serious conditions.  If you have frequent nosebleeds,  please see
+    your doctor"'
   DialogBox: {fileID: 988498043}
   currentPage: 0
   firstTouch: 1
@@ -10773,24 +10762,31 @@ MonoBehaviour:
         m_CallState: 2
   Dialogs:
   - Water Safety
-  - I think you have stepped the wrong way and suddenly turned your ankle.
-  - " But were able to \u201Cwalk it off\u201D? "
-  - You most likely experienced a twisted ankle.
-  - 'When you twist your ankle, it means you have stretched the ligaments in your
-    ankle past the usual point. '
-  - '"You Feel Pain, especially when you bear weight on the affected foot. Feel pain
-    when you touch the ankle,Instability in the ankle, you get swelling & bruising."'
-  - '"Twisted Ankle cause A fall that causes your ankle to twist, Landing awkwardly
-    on your foot after jumping or pivoting. Walking or exercising on an uneven surface."'
-  - Sometimes Another person stepping or landing on your foot during a sports activity,
-    it twisted your ankle. Although it can be extremely painful when it happens
-  - When you feel twisted ankle you should take rest. Avoid activities that cause
-    pain, swelling or discomfort.
-  - '" Use an ice pack or ice slush bath immediately for 15 to 20 minutes and repeat
-    every two to three hours"'
-  - if your pain level and swelling is significant , if your foot is bruised, deformed,
-    or you are unable to walk at all. Go to the Doctor. You may have a fracture,
-    broken bone or serious ligament damage.
+  - It will be risk for your life if you dont take anykind of safety measures, you
+    will be drowned or you will get heavy injury on your head.
+  - '"Water Safety is procedures, precautions and policies  associated with safety
+    "'
+  - '"You should be know  about the water safety.  water safety rules &  layers will
+    be helpful  for you and other peoples"'
+  - You should be learned swimming skill to become good at it.
+  - '"A child or weak swimmer  can drown in the time  it takes to reply to a  text,
+    check a fishing  line or apply sunscreen.  Death and injury from  drownings happen
+    every  day in home pools and  hot tubs, at the beach  or in oceans, lakes,  rivers
+    and streams,  bathtubs, and even buckets. "'
+  - '"Water competency is a  way of improving water  safety for yourself and  those
+    around you through  avoiding common dangers,  developing fundamental  water safety
+    skills to  make you safer in and  around the water, and  knowing how to prevent 
+    and respond to drowning  emergencies. Water competency  has 3 main components:
+    water  smarts, swimming skills and  helping others."'
+  - '"Ensure every member of your  family learns to swim,Employ  layers of protection,Know 
+    what to do in a water  emergency "'
+  - '"Be smart in, around,  near water(never  swim alone,Never  leave),Know how 
+    to help others in  at any situation."'
+  - '"These kinds of things  will ensure your safety  in the water and also  protect
+    and help others  in the water"'
+  - '"There are many government  and non-government bodies  in the field of water
+    safety,  including maritime search and  rescue organisations,lifeguard  associations,and
+    other safety  organisations for whichwater  safety is just part of their scope"'
   DialogBox: {fileID: 310153805}
   currentPage: 0
   firstTouch: 1
@@ -11803,24 +11799,29 @@ MonoBehaviour:
         m_CallState: 2
   Dialogs:
   - Broken Bone
-  - I think you have stepped the wrong way and suddenly turned your ankle.
-  - " But were able to \u201Cwalk it off\u201D? "
-  - You most likely experienced a twisted ankle.
-  - 'When you twist your ankle, it means you have stretched the ligaments in your
-    ankle past the usual point. '
-  - '"You Feel Pain, especially when you bear weight on the affected foot. Feel pain
-    when you touch the ankle,Instability in the ankle, you get swelling & bruising."'
-  - '"Twisted Ankle cause A fall that causes your ankle to twist, Landing awkwardly
-    on your foot after jumping or pivoting. Walking or exercising on an uneven surface."'
-  - Sometimes Another person stepping or landing on your foot during a sports activity,
-    it twisted your ankle. Although it can be extremely painful when it happens
-  - When you feel twisted ankle you should take rest. Avoid activities that cause
-    pain, swelling or discomfort.
-  - '" Use an ice pack or ice slush bath immediately for 15 to 20 minutes and repeat
-    every two to three hours"'
-  - if your pain level and swelling is significant , if your foot is bruised, deformed,
-    or you are unable to walk at all. Go to the Doctor. You may have a fracture,
-    broken bone or serious ligament damage.
+  - '"I think you are  face an accident and your bones are break"'
+  - '"A fracture is a broken bone,  the same as a crack or a break"'
+  - '"A fracture is a break,  usually in a bone. If  the broken bone punctures  the
+    skin, it is called an  open or compound fracture"'
+  - '"The 4 most common signs  of a broken bone  (also known as a fracture)  They
+    are:pain, swelling, deformity, Noticeable  and unusual "'
+  - '"Fractures are: Closed or open fractures, Complete fractures,Displaced  fractures,Partial
+    fractures, Stress fractures"'
+  - '" Anyone can break a bone,  with certain situations  making it more likely. 
+    Many people break bones  from falls, car accidents  and sports injuries.  Medical
+    conditions such  as osteoporosis can also  play a role. Osteoporosis  causes
+    at least one million  fractures each year"'
+  - '"To reduce pain and inflammation,  your doctor may recommend an  over-the-counter
+    pain reliever,  such as acetaminophen  (Tylenol, others) or ibuprofen  (Advil,
+    Motrin IB, others) or  a combination of the two."'
+  - A cut is a break or opening in the skin. It is also called a laceration. A cut
+    may be deep, smooth, or jagged.
+  - '"The femur is the longest  and strongest bone in the  body,But Breaking your 
+    ribs can be terribly  distressing and quite  painfuL"'
+  - '"Most fractures heal in 6-8 weeks,  but this varies tremendously from  bone
+    to bone and in each person  based on many of the factors  discussed above. Hand
+    and wrist  fractures often heal in 4-6 weeks  whereas a tibia fracture may take 
+    20 weeks or more"'
   DialogBox: {fileID: 1399783589}
   currentPage: 0
   firstTouch: 1
@@ -13847,6 +13848,7 @@ MonoBehaviour:
   - {fileID: 1180568085}
   RightArrow: {fileID: 2128079623}
   LeftArrow: {fileID: 267117184}
+  activeID: 0
 --- !u!1 &1411758086
 GameObject:
   m_ObjectHideFlags: 0
@@ -14220,24 +14222,26 @@ MonoBehaviour:
         m_CallState: 2
   Dialogs:
   - Burns
-  - I think you have stepped the wrong way and suddenly turned your ankle.
-  - " But were able to \u201Cwalk it off\u201D? "
-  - You most likely experienced a twisted ankle.
-  - 'When you twist your ankle, it means you have stretched the ligaments in your
-    ankle past the usual point. '
-  - '"You Feel Pain, especially when you bear weight on the affected foot. Feel pain
-    when you touch the ankle,Instability in the ankle, you get swelling & bruising."'
-  - '"Twisted Ankle cause A fall that causes your ankle to twist, Landing awkwardly
-    on your foot after jumping or pivoting. Walking or exercising on an uneven surface."'
-  - Sometimes Another person stepping or landing on your foot during a sports activity,
-    it twisted your ankle. Although it can be extremely painful when it happens
-  - When you feel twisted ankle you should take rest. Avoid activities that cause
-    pain, swelling or discomfort.
-  - '" Use an ice pack or ice slush bath immediately for 15 to 20 minutes and repeat
-    every two to three hours"'
-  - if your pain level and swelling is significant , if your foot is bruised, deformed,
-    or you are unable to walk at all. Go to the Doctor. You may have a fracture,
-    broken bone or serious ligament damage.
+  - '" A burn is an injury to the skin primarily caused by heat."'
+  - 'Burns are a global public health problem,Burns are the second most common injury
+    in rural areas.  '
+  - '" A burn occurs when heat, chemicals, sunlight, electricity or radiation damages
+    skin tissue. Most burns happen accidentally. "'
+  - 'There are three primary types of burns: first, second, and third-degree. Each
+    degree is based on the severity of damage to the skin.'
+  - ' First-degree being the most minor and third-degree being the most severe.'
+  - '"When  first-degree burns happen, u will get red, nonblistered skin when   second-degree
+    burns happen, u will get blisters and some thickening of the skin & when third-degree
+    burns happen, u will get widespread thickness with a white"'
+  - '" Most minor burns can be treated at home. They usually heal within a couple
+    of weeks. If injuries are serious then patients need to concern a doctor. "'
+  - '" At Some  Burns ,we should not use ice  or even ice-cold water on a burn. Extreme
+    cold applied to a burn can further damage the tissue. To properly cool and clean
+    a burn, remove any clothing that covers it. "'
+  - '"We should use sunscreen cream and sunglasses when so much hot in outside, and
+    avoid peak sunlight. it helps us to avoid sun burn "'
+  - Increase more usage of smoke detectors and keep everyone safe from unwanted fire.
+    also we should keep emergency exit and all  necessary equipment in our residence
   DialogBox: {fileID: 1380383143}
   currentPage: 0
   firstTouch: 1
@@ -21324,24 +21328,27 @@ MonoBehaviour:
         m_CallState: 2
   Dialogs:
   - Allergic Reaction
-  - I think you have stepped the wrong way and suddenly turned your ankle.
-  - " But were able to \u201Cwalk it off\u201D? "
-  - You most likely experienced a twisted ankle.
-  - 'When you twist your ankle, it means you have stretched the ligaments in your
-    ankle past the usual point. '
-  - '"You Feel Pain, especially when you bear weight on the affected foot. Feel pain
-    when you touch the ankle,Instability in the ankle, you get swelling & bruising."'
-  - '"Twisted Ankle cause A fall that causes your ankle to twist, Landing awkwardly
-    on your foot after jumping or pivoting. Walking or exercising on an uneven surface."'
-  - Sometimes Another person stepping or landing on your foot during a sports activity,
-    it twisted your ankle. Although it can be extremely painful when it happens
-  - When you feel twisted ankle you should take rest. Avoid activities that cause
-    pain, swelling or discomfort.
-  - '" Use an ice pack or ice slush bath immediately for 15 to 20 minutes and repeat
-    every two to three hours"'
-  - if your pain level and swelling is significant , if your foot is bruised, deformed,
-    or you are unable to walk at all. Go to the Doctor. You may have a fracture,
-    broken bone or serious ligament damage.
+  - 'Your Body Shows Some kind of abnormal harmful substance which called Allergic
+    reaction. '
+  - Allergic reaction happened when your immune system reacts to a foreign substance
+    .Some have minor irritation And Some have majora irritation on allergic reaction
+  - 'If you have allergies in some kind of food,medicine ,insect or other things
+    u get allergic reaction.Also some allergies ar inherited, '
+  - A food allergy can cause Tingling in the mouth,An insect sting allergy can cause
+    A large area of swelling at the sting site, A drug allergy can cause Itchy skin
+  - Symptoms of an allergic reaction usually develop within a few minutes of being
+    exposed to something you're allergic to, although occasionally they can develop
+    gradually over a few hours.
+  - Red rash ,watering eyes,wheezing ,sneezing and an itchy, runny or blocked nose
+    If you get this kind of symptoms Then you are suffering allergic reaction
+  - Many mild to moderate allergic reactions can be treated at home  with medicine
+    and medication. and some  allegic reaction may take a few hours to disappear.
+  - For Major Allergic Reaction we should counseling with doctor, and apply  what
+    doctor suggest.
+  - 'Some allergies are temporary after taking medicine you can get out from this
+    but some allergies are permanent , '
+  - For Avoid Major and serious allergies, you should avoid the reasons of allergies.
+    it will be help you to get out from allergic reaction
   DialogBox: {fileID: 77675312}
   currentPage: 0
   firstTouch: 1
@@ -21410,24 +21417,30 @@ MonoBehaviour:
         m_CallState: 2
   Dialogs:
   - Cuts
-  - I think you have stepped the wrong way and suddenly turned your ankle.
-  - " But were able to \u201Cwalk it off\u201D? "
-  - You most likely experienced a twisted ankle.
-  - 'When you twist your ankle, it means you have stretched the ligaments in your
-    ankle past the usual point. '
-  - '"You Feel Pain, especially when you bear weight on the affected foot. Feel pain
-    when you touch the ankle,Instability in the ankle, you get swelling & bruising."'
-  - '"Twisted Ankle cause A fall that causes your ankle to twist, Landing awkwardly
-    on your foot after jumping or pivoting. Walking or exercising on an uneven surface."'
-  - Sometimes Another person stepping or landing on your foot during a sports activity,
-    it twisted your ankle. Although it can be extremely painful when it happens
-  - When you feel twisted ankle you should take rest. Avoid activities that cause
-    pain, swelling or discomfort.
-  - '" Use an ice pack or ice slush bath immediately for 15 to 20 minutes and repeat
-    every two to three hours"'
-  - if your pain level and swelling is significant , if your foot is bruised, deformed,
-    or you are unable to walk at all. Go to the Doctor. You may have a fracture,
-    broken bone or serious ligament damage.
+  - '"I think you are  feeling pain in your finger. Do you know a cut can cause external
+    and internal bleeding."'
+  - You know if you are not carefull enough you will be injured. Causes of cut are
+    Sharp-edged pointed objects pressing into and slicing the skin tissue.
+  - '"You know what A deep cut that severs an artery is a medical emergency.sometimes
+    patients need to stitches his cut area.  "'
+  - '"Keep the site dry and clean. It may be covered with an occlusive thin film
+    dressing, which is waterproof and protective. "'
+  - Cuts from an animal or human bite. Infection is more likely with a bite injury.
+  - '"A cut may be deep, smooth, or jagged. It may be near the surface of the skin,
+    or deeper. A deep cut can affect muscles, ligaments, nerves, blood vessels, or
+    bone. "'
+  - '" The most common causes of cuts and puncture wounds are external injuries that
+    break or tear the skin. These causes include: falls. car accidents.Mainly Cuts 
+    hamper in skin tissue."'
+  - ' Gently wash the area with mild soap and water to keep out germs and remove
+    debris. To help the injured skin heal, use petroleum jelly to keep the wound
+    moist. Petroleum jelly prevents the wound from drying out and forming a scab;
+    We should make dry the cut site. '
+  - '" A cut is a break or opening in the skin. It is also called a laceration. A
+    cut may be deep, smooth, or jagged."'
+  - Human bites are more likely to become infected than animal bites. Bites on the
+    hands are at higher risk. Many toddler bites are safe because they don't break
+    the skin. Bat Bites and Rabies.This all type of injuries  are bite injury.
   DialogBox: {fileID: 603327955}
   currentPage: 0
   firstTouch: 1
