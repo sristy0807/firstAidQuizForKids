@@ -8,7 +8,7 @@ public class HorizontalListChanger : MonoBehaviour
     public GameObject RightArrow;
     public GameObject LeftArrow;
 
-    private int activeID=0;
+    [SerializeField] private int activeID=0;
 
     public void Reset()
     {

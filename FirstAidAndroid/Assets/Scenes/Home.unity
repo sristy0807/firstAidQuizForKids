@@ -6574,6 +6574,10 @@ MonoBehaviour:
     answers: []
   - questionText: 
     answers: []
+  runningQuestionIndex: 0
+  rightAnswerID: 0
+  rightAnswersCount: 0
+  currentLevel: 0
   LevelText: {fileID: 1721152572}
   QuestionText: {fileID: 852751396}
   AnswerTexts:
@@ -7274,7 +7278,7 @@ MonoBehaviour:
   DataLoaded:
     m_PersistentCalls:
       m_Calls: []
-  jsonFile: {fileID: 4900000, guid: bd7837edcea19424c988a22dbb68b47c, type: 3}
+  jsonFile: {fileID: 4900000, guid: 6b2113042a0994a70929e4a54ed812f2, type: 3}
   allRoundData: []
 --- !u!1 &625562195
 GameObject:
@@ -11913,6 +11917,17 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 542881173}
+        m_MethodName: ResetLevelValues
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1139894299
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12536,11 +12551,21 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b27e7361eb61a459a94856b1c401237f, type: 3}
   - {fileID: 21300000, guid: 9b3b61d168f4e4b0594233a2cc2d740f, type: 3}
   - {fileID: 21300000, guid: 776bed8f061354c4f91e5f6974634912, type: 3}
+  - {fileID: 21300000, guid: 776bed8f061354c4f91e5f6974634912, type: 3}
+  - {fileID: 21300000, guid: 776bed8f061354c4f91e5f6974634912, type: 3}
+  - {fileID: 21300000, guid: 776bed8f061354c4f91e5f6974634912, type: 3}
+  - {fileID: 21300000, guid: 776bed8f061354c4f91e5f6974634912, type: 3}
+  - {fileID: 21300000, guid: 776bed8f061354c4f91e5f6974634912, type: 3}
   CharacterFemaleHappy:
   - {fileID: 21300000, guid: 6c26a8a6a033640d3a0c72355d130d4a, type: 3}
   - {fileID: 21300000, guid: 3ecd77ee252924a1697f36070d02ca2c, type: 3}
   - {fileID: 21300000, guid: 632f3400e5d074193abf7a8eb5883f7a, type: 3}
   - {fileID: 21300000, guid: 6a697e829cc444bb1aced0414a23e6c9, type: 3}
+  - {fileID: 21300000, guid: fe9e3cf2b6fdf480499524863c474b2c, type: 3}
+  - {fileID: 21300000, guid: fe9e3cf2b6fdf480499524863c474b2c, type: 3}
+  - {fileID: 21300000, guid: fe9e3cf2b6fdf480499524863c474b2c, type: 3}
+  - {fileID: 21300000, guid: fe9e3cf2b6fdf480499524863c474b2c, type: 3}
+  - {fileID: 21300000, guid: fe9e3cf2b6fdf480499524863c474b2c, type: 3}
   - {fileID: 21300000, guid: fe9e3cf2b6fdf480499524863c474b2c, type: 3}
   CharacterMaleSad:
   - {fileID: 21300000, guid: 6c78c2acf61c2439f906a0bed5faddaa, type: 3}
@@ -12548,10 +12573,20 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 4ff5ee3dc26134dc0b2e62ad0befae39, type: 3}
   - {fileID: 21300000, guid: 52579ac4529204955bca1ed6377edc1d, type: 3}
   - {fileID: 21300000, guid: 52579ac4529204955bca1ed6377edc1d, type: 3}
+  - {fileID: 21300000, guid: 52579ac4529204955bca1ed6377edc1d, type: 3}
+  - {fileID: 21300000, guid: 52579ac4529204955bca1ed6377edc1d, type: 3}
+  - {fileID: 21300000, guid: 52579ac4529204955bca1ed6377edc1d, type: 3}
+  - {fileID: 21300000, guid: 52579ac4529204955bca1ed6377edc1d, type: 3}
+  - {fileID: 21300000, guid: 52579ac4529204955bca1ed6377edc1d, type: 3}
   CharacterFemaleSad:
   - {fileID: 21300000, guid: 5474dc1cbf5b74ebe88c18d5d78a99a4, type: 3}
   - {fileID: 21300000, guid: 179dd0489db51445b9697f938878f81a, type: 3}
   - {fileID: 21300000, guid: efddab7b07d0140f1b927b200c6fd392, type: 3}
+  - {fileID: 21300000, guid: 88c60c1cf88b64637ad34948c0def9fc, type: 3}
+  - {fileID: 21300000, guid: 88c60c1cf88b64637ad34948c0def9fc, type: 3}
+  - {fileID: 21300000, guid: 88c60c1cf88b64637ad34948c0def9fc, type: 3}
+  - {fileID: 21300000, guid: 88c60c1cf88b64637ad34948c0def9fc, type: 3}
+  - {fileID: 21300000, guid: 88c60c1cf88b64637ad34948c0def9fc, type: 3}
   - {fileID: 21300000, guid: 88c60c1cf88b64637ad34948c0def9fc, type: 3}
   - {fileID: 21300000, guid: 88c60c1cf88b64637ad34948c0def9fc, type: 3}
   CharacterIcon: {fileID: 1125063287}
@@ -19572,6 +19607,17 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 542881173}
+        m_MethodName: ResetLevelValues
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1875668506
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21162,7 +21208,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -4.800049, y: 4.800049}
+  m_AnchoredPosition: {x: -4.7998047, y: 4.8007812}
   m_SizeDelta: {x: -124.95648, y: -201.85254}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2074412190

@@ -11,10 +11,10 @@ public class QuizPanel : MonoBehaviour
 
     const int NumberOfQuestions = 4;
     [SerializeField] private QuestionData[] questionDataForThisLevel = new QuestionData[NumberOfQuestions];
-    private int runningQuestionIndex;
-    private int rightAnswerID;
-    private int rightAnswersCount;
-    private int currentLevel;
+    [SerializeField] private int runningQuestionIndex;
+    [SerializeField] private int rightAnswerID;
+    [SerializeField] private int rightAnswersCount;
+    [SerializeField] private int currentLevel;
 
     public Text LevelText;
     public Text QuestionText;
@@ -133,6 +133,15 @@ public class QuizPanel : MonoBehaviour
         }
     }
 
+    
+
+    public void ResetLevelValues()
+    {
+        runningQuestionIndex=0;
+        rightAnswerID=0;
+        rightAnswersCount=0;
+        currentLevel=0;
+    }
     
 
 }

@@ -1,0 +1,2164 @@
+{
+  "allRoundData": [
+    {
+      "name": "Round 1",
+      "pointsAddedForC1orrectAnswer": 1,
+      "questions": [
+        {
+          "questionText": "1. What is the main cause of twisted ankle?",
+          "answers": [
+            {
+              "answerText": "if get a hit on your ankle",
+              "isCorrect": false
+            },
+            {
+              "answerText": "if twisted leg finger ",
+              "isCorrect": false
+            },
+            {
+              "answerText": "if your ankle twisted",
+              "isCorrect": true
+            },
+            {
+              "answerText": "if Injuries to the feet",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "2. What Happened When Your Ankle Twisted?",
+          "answers": [
+            {
+              "answerText": "ligament stretched",
+              "isCorrect": true
+            },
+            {
+              "answerText": "ligament broken",
+              "isCorrect": false
+            },
+            {
+              "answerText": "leg bone damaged",
+              "isCorrect": false
+            },
+            {
+              "answerText": "ligament tissue damaged",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "3. What you will use When Your Ankle Twisted",
+          "answers": [
+            {
+              "answerText": "paste",
+              "isCorrect": false
+            },
+            {
+              "answerText": "water",
+              "isCorrect": false
+            },
+            {
+              "answerText": "soil",
+              "isCorrect": false
+            },
+            {
+              "answerText": "ice",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionText": "4 : How long you should rub with ice?",
+          "answers": [
+            {
+              "answerText": "5 to 10 minutes ",
+              "isCorrect": false
+            },
+            {
+              "answerText": "10 to 15 minutes ",
+              "isCorrect": false
+            },
+            {
+              "answerText": "15 to 20 minutes ",
+              "isCorrect": true
+            },
+            {
+              "answerText": "25 to 30 minutes ",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "5 :  How long should you repeat the procedure?",
+          "answers": [
+            {
+              "answerText": "one to three hours",
+              "isCorrect": false
+            },
+            {
+              "answerText": "two to three hours",
+              "isCorrect": true
+            },
+            {
+              "answerText": "one to two hours",
+              "isCorrect": false
+            },
+            {
+              "answerText": " three to four hours",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "6 : When you twist your ankle, it means you have stretched the leg bone.?",
+            "answers": [
+                {
+                    "answerText": "true",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "false",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "bla",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "blaa",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+          "questionText": "7 : You have stepped the wrong way and suddenly turned your _____",
+          "answers": [
+            {
+              "answerText": "ligament",
+              "isCorrect": false
+            },
+            {
+              "answerText": "ankle",
+              "isCorrect": true
+            },
+            {
+              "answerText": "bone",
+              "isCorrect": false
+            },
+            {
+              "answerText": "All The Avobe",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "8 : In Twisted Ankle We Should  Avoid   ___",
+          "answers": [
+            {
+              "answerText": "take rest",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Give Pressure On Foot",
+              "isCorrect": false
+            },
+            {
+              "answerText": " Bear weight ",
+              "isCorrect": true
+            },
+            {
+              "answerText": "None Of Them",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "9 :  when we should consult a doctor? ",
+          "answers": [
+            {
+              "answerText": " pain level and swelling is significant",
+              "isCorrect": false
+            },
+            {
+              "answerText": "foot is bruised or deformed",
+              "isCorrect": false
+            },
+            {
+              "answerText": "you are unable to walk at all",
+              "isCorrect": false
+            },
+            {
+              "answerText": "all of Them",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionText": "10: When you twist your ankle, it means you have stretched the leg bone.?",
+            "answers": [
+                {
+                    "answerText": "true",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "false",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "false",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "false",
+                    "isCorrect": false
+                }
+            ]
+        }
+      ]
+    },
+    {
+      "name": "Round 2",
+      "pointsAddedForCorrectAnswer": 1,
+      "questions": [
+        {
+          "questionText": "1: For which disease most of the people death in often occur in the very young and in the elderly?",
+          "answers": [
+            {
+              "answerText": "Allergic Reaction",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Choking",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Head Bump",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Nose Bleeding",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "2 : What is the main cause of Choking?",
+          "answers": [
+            {
+              "answerText": "1. Eating quickly",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Drink polluted water",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Get hit On nose",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Get Pressure In heart",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "3 : What is the symptom of choking? ",
+          "answers": [
+            {
+              "answerText": "Fainting ",
+              "isCorrect": false
+            },
+            {
+              "answerText": "HIgh fever",
+              "isCorrect": false
+            },
+            {
+              "answerText": "get pain in nose",
+              "isCorrect": false
+            },
+            {
+              "answerText": " coughing",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionText": "4 : Which one block the throat? ",
+          "answers": [
+            {
+              "answerText": "Ice cream",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Cold Drinks",
+              "isCorrect": false
+            },
+            {
+              "answerText": "A piece of food ",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Junk Food",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "5 :  If any child choking ,what should do? ",
+          "answers": [
+            {
+              "answerText": "5 blows in Font",
+              "isCorrect": false
+            },
+            {
+              "answerText": "5 abdominal thrusts",
+              "isCorrect": false
+            },
+            {
+              "answerText": "5 sharp blows",
+              "isCorrect": false
+            },
+            {
+              "answerText": "5 blows in back",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionText": "6:  Choking happens when someone's nose suddenly gets blocked, either fully or partly,",
+            "answers": [
+                {
+                    "answerText": "true",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "false",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "bla",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "bale",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+          "questionText": "7 :  for which reason people we die?",
+          "answers": [
+            {
+              "answerText": " Twisted Ankle ",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Allergic Reaction",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Choking",
+              "isCorrect": true
+            },
+            {
+              "answerText": "all of Them",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "8 :  when a piece of food lodges in the throat or windpipe, blocking the flow of air it feel ___-.",
+          "answers": [
+            {
+              "answerText": " Fainting ",
+              "isCorrect": false
+            },
+            {
+              "answerText": "HIgh fever",
+              "isCorrect": false
+            },
+            {
+              "answerText": "coughing",
+              "isCorrect": false
+            },
+            {
+              "answerText": "all of Them",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionText": "9 :  In which Reason ,There is a Different Type of Treatment For Adult And children. ?",
+          "answers": [
+            {
+              "answerText": "Twisted Ankle",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Allergic Reaction",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Choking",
+              "isCorrect": true
+            },
+            {
+              "answerText": "None of Them",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "10 :  In Choking, Give 5 blows in back is applicable for whom?",
+          "answers": [
+            {
+              "answerText": "Adult",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Child",
+              "isCorrect": false
+            },
+            {
+              "answerText": "1 & 2",
+              "isCorrect": true
+            },
+            {
+              "answerText": "None",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Round 3",
+      "pointsAddedForCorrectAnswer": 1,
+      "questions": [
+        {
+          "questionText": "1: What is the main symptoms of Allergic Reaction?",
+          "answers": [
+            {
+              "answerText": "High Fever",
+              "isCorrect": false
+            },
+            {
+              "answerText": "skin shows abnormal substance",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Pain In bones",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Unconscious",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "2 :  Which kind of subtstance is the cause of Allergic Reaction?",
+          "answers": [
+            {
+              "answerText": " Main substance",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Inner substance",
+              "isCorrect": false
+            },
+            {
+              "answerText": "cell substance",
+              "isCorrect": false
+            },
+            {
+              "answerText": "foreign substance",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionText": "3 : Which things are cause of Allergic Reaction? ",
+          "answers": [
+            {
+              "answerText": "air",
+              "isCorrect": false
+            },
+            {
+              "answerText": "waterr",
+              "isCorrect": false
+            },
+            {
+              "answerText": "food",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Red rash",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": " 4 : What is the symptoms of Allergic Reaction? ",
+          "answers": [
+            {
+              "answerText": "Stomach pain",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Fainting",
+              "isCorrect": false
+            },
+            {
+              "answerText": "High Fever ",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Watering eyes ",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionText": "5 : Which Kind of allergic reactions can't be treated at home?",
+          "answers": [
+            {
+              "answerText": " Mild allergies ",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Moderate allergies ",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Major allergies ",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Temporary allergies ",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "6:Your Body Skin Shows Some kind of abnormal harmful substance ,Its called Allergic reaction",
+            "answers": [
+                {
+                    "answerText": "true",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "false",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "bla",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "bkae",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+          "questionText": "7 :Which things are cause for  Allergic Reaction? ",
+          "answers": [
+            {
+              "answerText": " insect ",
+              "isCorrect": false
+            },
+            {
+              "answerText": "medicine",
+              "isCorrect": false
+            },
+            {
+              "answerText": "food",
+              "isCorrect": false
+            },
+            {
+              "answerText": "All Of Them ",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionText": "8 : Which kind of Allergic Reactions reactions can be treated at home?",
+          "answers": [
+            {
+              "answerText": " Mild ",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Moderate",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Major",
+              "isCorrect": false
+            },
+            {
+              "answerText": "all of Them",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionText": "9 : Allergic reaction happened when your immune system reacts to a Inner  substance.",
+            "answers": [
+                {
+                    "answerText": "true",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "false",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "bla",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "blase",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+          "questionText": "10 : Main Symptoms Of A drug allergy ______",
+          "answers": [
+            {
+              "answerText": "Tingling in the mouth",
+              "isCorrect": false
+            },
+            {
+              "answerText": "A large area of swelling at the sting site",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Itchy skin",
+              "isCorrect": true
+            },
+            {
+              "answerText": "None",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Round 4",
+      "pointsAddedForCorrectAnswer": 1,
+      "questions": [
+        {
+          "questionText": "1:If your head hitwith something its  called head bump??",
+            "answers": [
+                {
+                    "answerText": "True",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "False",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "bla",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "blase",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+          "questionText": "2 : What kind of injury Skull,brain or scalp fracture is?",
+          "answers": [
+            {
+              "answerText": "Head injury",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Nose bleeding",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Burns",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Twisted Ankle",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "3 : How many types of head bump are? ",
+          "answers": [
+            {
+              "answerText": "four ",
+              "isCorrect": false
+            },
+            {
+              "answerText": "three",
+              "isCorrect": false
+            },
+            {
+              "answerText": "two",
+              "isCorrect": true
+            },
+            {
+              "answerText": "one",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "4 :Headache,a spinning sensation,mild confusion & temporary ringing in the ears is a type of head-bump?",
+            "answers": [
+                {
+                    "answerText": "Ice cream",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "Junk Food",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "none",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "this is the right answer",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+          "questionText": "5 :What kind of head bump is mainly a head injury that doesn’t break your skull?",
+          "answers": [
+            {
+              "answerText": "Closed head bump",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Hematoma head bump",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Open head bump",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Edema head bump",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "6:Avoide taking  sleeping pills is the advised for child ",
+            "answers": [
+                {
+                    "answerText": "true",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "false",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "bla",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "vlaa",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+          "questionText": "7:How can be head injury treated?",
+          "answers": [
+            {
+              "answerText": "Medication,Surgery $ Rehabilitation",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Surgery $ Rehabilitation",
+              "isCorrect": false
+            },
+            {
+              "answerText": "All the above",
+              "isCorrect": false
+            },
+            {
+              "answerText": "None of the above",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": " 8:Give paracetamol for headache is the advised for child ?",
+            "answers": [
+                {
+                    "answerText": " true ",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "false",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "bla",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "faafsadse",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+          "questionText": "9:How many weeks need to recover from head injury?",
+          "answers": [
+            {
+              "answerText": "Three",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Two",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Five",
+              "isCorrect": false
+            },
+            {
+              "answerText": "One",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "10:If you hit your head on a soft object,you may experience a head injury ?",
+            "answers": [
+                {
+                    "answerText": "True",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "False",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "hello",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "hola",
+                    "isCorrect": false
+                }
+            ]
+        }
+      ]
+    },
+    {
+      "name": "Round 5",
+      "pointsAddedForCorrectAnswer": 1,
+      "questions": [
+        {
+          "questionText": "1:In which type you will be drowned or u will get heavy injury on your head?",
+          "answers": [
+            {
+              "answerText": "Head Bumpr",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Nose bleeding",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Water Safety",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Twisted Ankle",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "2 :What is Water Safety?",
+          "answers": [
+            {
+              "answerText": "procedures",
+              "isCorrect": false
+            },
+            {
+              "answerText": "precautions",
+              "isCorrect": false
+            },
+            {
+              "answerText": "policies associated with safety",
+              "isCorrect": false
+            },
+            {
+              "answerText": "All the above",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionText": "3:For water safety what type of knowledge you have to know?",
+          "answers": [
+            {
+              "answerText": "airWater safety layers",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Water Safety rules",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Water Safety rules and layers",
+              "isCorrect": true
+            },
+            {
+              "answerText": "None of them",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": " 4: For swimming what you have to do first? ",
+          "answers": [
+            {
+              "answerText": "Good at walking",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Learn about swimming",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Learn about safety",
+              "isCorrect": false
+            },
+            {
+              "answerText": "None of them",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "5:What will happened if A child or weak swimmer can drown ?",
+          "answers": [
+            {
+              "answerText": " Death ",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Injury",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Death and injury",
+              "isCorrect": true
+            },
+            {
+              "answerText": "None of the above",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": " 6:How many types of Water competency are ?",
+          "answers": [
+            {
+              "answerText": "four",
+              "isCorrect": false
+            },
+            {
+              "answerText": "three",
+              "isCorrect": true
+            },
+            {
+              "answerText": "two",
+              "isCorrect": false
+            },
+            {
+              "answerText": "one",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "7:Ensure every member of your family learns to Employ layers of protection is type  of what safety measure ?",
+          "answers": [
+            {
+              "answerText": " Enviroment safety ",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Water Safety",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Animal safety",
+              "isCorrect": false
+            },
+            {
+              "answerText": "People safety ",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": " 8:For swimming you have to be smart,never swim alone and never leave?",
+            "answers": [
+                {
+                    "answerText": " true ",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "false",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "fasfa",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "falsdfsdfse",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+          "questionText": "9:While swimming, children shouldn’t  hold their breath for a long time, as this can cause drowning and has several other  severe risks is tips for Dont play Breath Holding Games?",
+            "answers": [
+                {
+                    "answerText": "true",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "false",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "fasfa",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "falsdfsdfse",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+          "questionText": "10: Under which organization Maritime search and rescue belongs?",
+          "answers": [
+            {
+              "answerText": "Air pollution organization",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Water safety organization",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Public health and care organization",
+              "isCorrect": true
+            },
+            {
+              "answerText": "All of the above",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Round 6",
+      "pointsAddedForCorrectAnswer": 1,
+      "questions": [
+        {
+          "questionText": "1:Yor nose hit by an soft object and cause nose bleeding its called Nose bleeding ?",
+            "answers": [
+                {
+                    "answerText": "True",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "False",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "fasfa",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "falsdfsdfse",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+          "questionText": "2: What is nose bleeding?",
+          "answers": [
+            {
+              "answerText": "a headache",
+              "isCorrect": false
+            },
+            {
+              "answerText": "blood loss from the tissu inside nose",
+              "isCorrect": true
+            },
+            {
+              "answerText": "blood loss from the tissu outside nose",
+              "isCorrect": false
+            },
+            {
+              "answerText": "None of the above",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "3: How many types of nosebleed are ?",
+          "answers": [
+            {
+              "answerText": "four ",
+              "isCorrect": false
+            },
+            {
+              "answerText": "three",
+              "isCorrect": true
+            },
+            {
+              "answerText": "one",
+              "isCorrect": false
+            },
+            {
+              "answerText": "three",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "4: posterior nosebleed is a type of nose bleeding ?",
+            "answers": [
+                {
+                    "answerText": "false",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "true",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "fasfa",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "falsdfsdfse",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+          "questionText": "5:A ______ nosebleed occurs deep inside the nose ?",
+          "answers": [
+            {
+              "answerText": "anterior nosebleed",
+              "isCorrect": false
+            },
+            {
+              "answerText": "posterior nosebleed",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Anti nosebleed",
+              "isCorrect": false
+            },
+            {
+              "answerText": "None of the avobe",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "6: What type of injury is Nose picking ?",
+          "answers": [
+            {
+              "answerText": "Twisted ankle",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Burns",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Water safety",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Nose bleeding",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionText": " 7: How to stop nosebleed?",
+          "answers": [
+            {
+              "answerText": "Sit downright",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Breathe through your mouth",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Don't Relax",
+              "isCorrect": false
+            },
+            {
+              "answerText": "You can't spray",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": " 8: Nasal packing is the treatment of ?",
+          "answers": [
+            {
+              "answerText": " Twisted ankle ",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Nose Bleeding",
+              "isCorrect": true
+            },
+            {
+              "answerText": " Burns",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Water Safety",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "9:To prevent nosebleeds Use a saline nasal spray ",
+            "answers": [
+                {
+                    "answerText": "true",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "false",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "fasfa",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "falsdfsdfse",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+          "questionText": "10:If you have frequent nosebleeds, please see your doctor?",
+            "answers": [
+                {
+                    "answerText": "True",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "False",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "fasfa",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "falsdfsdfse",
+                    "isCorrect": false
+                }
+            ]
+        }
+      ]
+    },
+  {
+    "name": "Round 7",
+      "pointsAddedForCorrectAnswer": 1,
+      "questions": [
+        {
+          "questionText": "1:What happened If you face any accident??",
+          "answers": [
+            {
+              "answerText": "Burn",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Broken bone",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Burn & Broken bone",
+              "isCorrect": false
+            },
+            {
+              "answerText": "All the above",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionText": "2:A fracture is a broken bone, the same as a crack or a break?",
+            "answers": [
+                {
+                    "answerText": "true",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "false",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "fasfa",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "falsdfsdfse",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+          "questionText": "3:What type of fracture If the broken bone punctures the skin?",
+          "answers": [
+            {
+              "answerText": "Open fracture ",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Closed fracture",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Open or compound fracture",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Closed or compound fracture",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "4.How do I know if I broke a bone in my foot? ?",
+          "answers": [
+            {
+              "answerText": "Swelling.",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Noticeable and unusual.",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Deformity",
+              "isCorrect": false
+            },
+            {
+              "answerText": "All the above.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionText": "5: Displaced fractures is a type of?",
+          "answers": [
+            {
+              "answerText": "Broken bone",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Twisted ankle",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Burns",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Eye injury",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": " 6:Osteoporosis causes how many  fractures each year?",
+          "answers": [
+            {
+              "answerText": "Three million",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Two million",
+              "isCorrect": false
+            },
+            {
+              "answerText": "One million",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Five million",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": " 7:What medicine recommended by doctor to reduce pain & inflammation?",
+          "answers": [
+            {
+              "answerText": "Acetaminophen",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Paracetamol",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Salbutamol.",
+              "isCorrect": false
+            },
+            {
+              "answerText": "A & D both.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionText": " 8:A cut is a break or opening in the skin. It is also called? ?",
+          "answers": [
+            {
+              "answerText": "Aaceration",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Kaceration",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Daceration",
+              "isCorrect": false
+            },
+            {
+              "answerText": "laceration",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionText": " 9:What is the longest and strongest bone in the body?",
+          "answers": [
+            {
+              "answerText": "Stapes",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Lunate",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Femur",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Clavicle",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "10:How many days needs to heal a tibia fracturey?",
+          "answers": [
+            {
+              "answerText": "05 Weeks",
+              "isCorrect": true
+            },
+            {
+              "answerText": "10 Weeks",
+              "isCorrect": true
+            },
+            {
+              "answerText": "15 Weeks",
+              "isCorrect": true
+            },
+            {
+              "answerText": "20 Weeks",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Round 8",
+      "pointsAddedForCorrectAnswer": 1,
+      "questions": [
+        {
+          "questionText": "1.What are the sympytoms of eye injuries??",
+          "answers": [
+            {
+              "answerText": "Bleeding",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Eye Swelling",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Chemical Burns",
+              "isCorrect": false
+            },
+            {
+              "answerText": "All of the Above",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionText": "2.What are the Cause of eye Damages?",
+          "answers": [
+            {
+              "answerText": "UV Sunlight",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Excessive Use of Alcohol",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Too Much Screen Time.",
+              "isCorrect": false
+            },
+            {
+              "answerText": "All of the Above",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionText": "3.Which eye injury heal on its own??",
+          "answers": [
+            {
+              "answerText": "Major injury ",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Minor injury",
+              "isCorrect": true
+            },
+            {
+              "answerText": "None",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Major & Minor injuries",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "4: Is it good to wash eyes with cold water?",
+            "answers": [
+                {
+                    "answerText": "yes",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "no",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "fasfa",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "falsdfsdfse",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+          "questionText": "5:What is the best treatment for eye injury??",
+          "answers": [
+            {
+              "answerText": "DO NOT apply any pressure.",
+              "isCorrect": false
+            },
+            {
+              "answerText": "If You Get Hit in the Eye Gently apply a small cold compress to reduce pain and swelling.",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Don't use steaks or other food items.",
+              "isCorrect": false
+            },
+            {
+              "answerText": "All of the Above",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionText": "6:The eye injuries can cause pain, swelling, redness and other symptoms. Some people see flashes of light or have vision changes.",
+            "answers": [
+                {
+                    "answerText": "True",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "False",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "fasfa",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "falsdfsdfse",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+          "questionText": " 7: How long does corneal abrasions take to heal? ",
+          "answers": [
+            {
+              "answerText": "12 Hours",
+              "isCorrect": false
+            },
+            {
+              "answerText": "24 Hours",
+              "isCorrect": false
+            },
+            {
+              "answerText": "36 Hours",
+              "isCorrect": false
+            },
+            {
+              "answerText": "48 Hours",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionText": " 8: What is the fastest healing organ in your body?",
+          "answers": [
+            {
+              "answerText": "Lungs",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Liver",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Cornea",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Kidneys",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": "9:which things heal on its own? ",
+          "answers": [
+            {
+              "answerText": "Twisted Ankle",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Nose bleeding",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Broken bone",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Eye Infection",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionText": "10. How long do eye infections last?",
+          "answers": [
+            {
+              "answerText": "5 to 10 days",
+              "isCorrect": false
+            },
+            {
+              "answerText": "7 to 14 days",
+              "isCorrect": true
+            },
+            {
+              "answerText": "15 to 0 days",
+              "isCorrect": false
+            },
+            {
+              "answerText": "1 to 2 months",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+  {
+    "name": "Round 9",
+      "pointsAddedForCorrectAnswer": 1,
+      "questions": [
+        {
+          "questionText": "1:For something to burn, you need fuel and air. Which part of air is needed to sustain a fire?",
+          "answers": [
+            {
+              "answerText": "Nitrogen",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Phlogiston",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Carbon dioxide",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Oxygen",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionText": "2:What are the main causes of death among people who initially survive a severe burn? ",
+          "answers": [
+            {
+              "answerText": "Fever",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Bacterial infection",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Severe dehydration",
+              "isCorrect": false
+            },
+            {
+              "answerText": "B and C",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionText": "3:.Which of these population groups has the highest risk for burns?",
+          "answers": [
+            {
+              "answerText": "60- to 65-year-olds",
+              "isCorrect": false
+            },
+            {
+              "answerText": "18- to 35-year-olds",
+              "isCorrect": false
+            },
+            {
+              "answerText": "24 months or younger",
+              "isCorrect": false
+            },
+            {
+              "answerText": "B and C",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionText": "4.Does salt water help burns?",
+            "answers": [
+                {
+                    "answerText": "Yes",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "No",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "fasfa",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "falsdfsdfse",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+          "questionText": "5:Which part of the human body does not burn in the fire?",
+          "answers": [
+            {
+              "answerText": "Eye",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Bone",
+              "isCorrect": true
+            },
+            {
+              "answerText": "Hair",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Nails",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": " 6:How should the eye be treated if a chemical splashes into it?",
+          "answers": [
+            {
+              "answerText": "Let the eye tear to wash the chemical out",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Cover the eye with a loose, moist dressing",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Use milk to flush the eye",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Flush the eye with clean drinking water",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionText": " 7:What should i do if you get burned?",
+          "answers": [
+            {
+              "answerText": "Apply petroleum jelly two to three times daily.",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Cool the burn.",
+              "isCorrect": false
+            },
+            {
+              "answerText": "Immediately immerse the burn in cool tap water",
+              "isCorrect": false
+            },
+            {
+              "answerText": "All Of Above.",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "questionText": " 8:Extreme cold applied to a burn can further damage the tissue.?",
+            "answers": [
+                {
+                    "answerText": "true",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "false",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "fasfa",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "falsdfsdfse",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+          "questionText": " 9:How to protect our skin from burn?",
+          "answers": [
+            {
+              "answerText": "use sunskin cream",
+              "isCorrect": true
+            },
+            {
+              "answerText": "use vaseline",
+              "isCorrect": false
+            },
+            {
+              "answerText": "use blu ray glass",
+              "isCorrect": false
+            },
+            {
+              "answerText": "None of the above",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "questionText": " 10:How to safe from unwanted fire?",
+          "answers": [
+            {
+              "answerText": "usage of fire detectors",
+              "isCorrect": false
+            },
+            {
+              "answerText": "usage of smoke detectors",
+              "isCorrect": true
+            },
+            {
+              "answerText": "usage of gas detectors",
+              "isCorrect": false
+            },
+            {
+              "answerText": "None of the above",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Round 10",
+        "pointsAddedForCorrectAnswer": 1,
+        "questions": [
+          {
+            "questionText": "1:What are the options available nowadays for closing a small cut?",
+            "answers": [
+              {
+                "answerText": "Skin glue",
+                "isCorrect": false
+              },
+              {
+                "answerText": "Steri-strips",
+                "isCorrect": false
+              },
+              {
+                "answerText": "Stitches",
+                "isCorrect": false
+              },
+              {
+                "answerText": "All of the Above",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionText": "2:If you saw someone with uncontrolled bleeding, would you know how to help? ",
+            "answers": [
+              {
+                "answerText": "Apply pressure with hands",
+                "isCorrect": false
+              },
+              {
+                "answerText": "Apply dressing and press",
+                "isCorrect": false
+              },
+              {
+                "answerText": "Apply tournique",
+                "isCorrect": false
+              },
+              {
+                "answerText": "All of the Above",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionText": "3:A cut  cause of what?",
+            "answers": [
+              {
+                "answerText": "Internal bleeding",
+                "isCorrect": false
+              },
+              {
+                "answerText": "external bleeding",
+                "isCorrect": false
+              },
+              {
+                "answerText": "Broken Bone",
+                "isCorrect": false
+              },
+              {
+                "answerText": "A & B",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionText": "4.What would be the after effect of animal bite?",
+            "answers": [
+              {
+                "answerText": "Infection",
+                "isCorrect": true
+              },
+              {
+                "answerText": "Broken bone",
+                "isCorrect": false
+              },
+              {
+                "answerText": "Back pain",
+                "isCorrect": false
+              },
+              {
+                "answerText": "choking",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionText": "5:What are the causes for cut ?",
+            "answers": [
+              {
+                "answerText": "Stretched by sharp object",
+                "isCorrect": false
+              },
+              {
+                "answerText": "Animal bite",
+                "isCorrect": false
+              },
+              {
+                "answerText": "Human bite",
+                "isCorrect": false
+              },
+              {
+                "answerText": "All of the above",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionText": " 6:A cut can cause only external bleeding_____",
+            "answers": [
+                {
+                    "answerText": "True",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "False",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "fasfa",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "falsdfsdfse",
+                    "isCorrect": false
+                }
+            ]
+          },
+          {
+            "questionText": " 7:Cuts Mainly Hamper in? ",
+            "answers": [
+              {
+                "answerText": "Skin tissue",
+                "isCorrect": true
+              },
+              {
+                "answerText": "Bone ",
+                "isCorrect": false
+              },
+              {
+                "answerText": "Ligament",
+                "isCorrect": false
+              },
+              {
+                "answerText": "All Of Above.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "questionText": " 8: we should keep wet the site of cut.",
+            "answers": [
+                {
+                    "answerText": "true",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "false",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "fasfa",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "falsdfsdfse",
+                    "isCorrect": false
+                }
+            ]
+          },
+          {
+            "questionText": " 9:A cut may be ____ ?",
+            "answers": [
+              {
+                "answerText": "deep",
+                "isCorrect": false
+              },
+              {
+                "answerText": "smooth",
+                "isCorrect": false
+              },
+              {
+                "answerText": "jagged",
+                "isCorrect": false
+              },
+              {
+                "answerText": "All of The Above",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "questionText": "10: Cuts from an______. Infection is more likely with a bite injury? ",
+            "answers": [
+              {
+                "answerText": "Human bite",
+                "isCorrect": false
+              },
+              {
+                "answerText": "Animal bite",
+                "isCorrect": false
+              },
+              {
+                "answerText": "Both A & B",
+                "isCorrect": true
+              },
+              {
+                "answerText": "None",
+                "isCorrect": false
+                }]
+                }]
+            }]
+        }
+  
+  
+  

@@ -18,7 +18,15 @@ public class LevelLockedUnlockedCheck : MonoBehaviour
     {
         if(TrophyIDRequired> TrophyManager.instance.NextTrophyID)
         {
-            GetComponent<Button>().interactable = false;
+            if(TrophyManager.instance.NextTrophyID == -1)
+            {
+                GetComponent<Button>().interactable = true;
+            }
+            else
+            {
+                GetComponent<Button>().interactable = false;
+            }
+            
         }
         else
         {
