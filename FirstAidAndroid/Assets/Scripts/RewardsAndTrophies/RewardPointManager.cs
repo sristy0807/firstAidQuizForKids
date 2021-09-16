@@ -19,6 +19,7 @@ public class RewardPointManager : MonoBehaviour
 
     public void SaveCurrentCoinCount(int coinCount)
     {
+        PlayGames.instance.AddScoreToLeaderboard(coinCount);
         PlayerPrefs.SetInt(RewardPointSaveKey, coinCount);
     }
 

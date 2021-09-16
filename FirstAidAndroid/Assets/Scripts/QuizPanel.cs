@@ -141,6 +141,7 @@ public class QuizPanel : MonoBehaviour
         rightAnswerID=0;
         rightAnswersCount=0;
         currentLevel=0;
+        textToSpeech.StopSpeech();
     }
     
 
